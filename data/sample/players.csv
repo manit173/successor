@@ -1,0 +1,1449 @@
+id,name,aliases,birth_date,birth_year,nation,position,sub_position,foot,height_cm,market_value_eur
+syn:0,Yann Rosni,,1995-07-18,1995,Synthetic,AM,Attacking midfielder,left,183,2900000
+syn:1,Bruno Porvar,,1998-08-06,1998,Synthetic,ST,Striker,left,171,5500000
+syn:2,Bram Pordo,,1998-09-06,1998,Synthetic,CB,Centre-back,left,179,1900000
+syn:3,Nilo Hupor,,1999-09-06,1999,Synthetic,W,Winger,left,173,5500000
+syn:4,Elian Tordrira,,2000-02-14,2000,Synthetic,GK,Goalkeeper,left,184,5300000
+syn:5,Rafa Lomo,,1998-11-04,1998,Synthetic,CB,Centre-back,left,191,17700000
+syn:7,Yann Moki,,2000-07-14,2000,Synthetic,W,Winger,left,188,2000000
+syn:8,Aris Rosmezsen,,1999-01-22,1999,Synthetic,CB,Centre-back,right,191,800000
+syn:9,Yann Belfe,,2000-07-17,2000,Synthetic,FB,Full-back,left,194,600000
+syn:10,Pavel Rosrosbel,,1994-12-19,1994,Synthetic,FB,Full-back,left,173,3000000
+syn:11,Cyro Quizanja,,1997-03-01,1997,Synthetic,AM,Attacking midfielder,left,181,2200000
+syn:12,Vito Sihuvi,,1999-08-01,1999,Synthetic,FB,Full-back,right,172,1900000
+syn:13,Vito Belanni,,2001-08-12,2001,Synthetic,AM,Attacking midfielder,right,187,3200000
+syn:14,Finn Varmo,,1993-01-24,1993,Synthetic,CM,Central midfielder,left,173,6300000
+syn:15,Fabio Talsini,,1997-02-20,1997,Synthetic,FB,Full-back,left,175,1700000
+syn:16,Yann Huni,,1997-12-25,1997,Synthetic,AM,Attacking midfielder,right,176,2400000
+syn:17,Emre Roslo,,1998-05-04,1998,Synthetic,DM,Defensive midfielder,right,192,8000000
+syn:18,Yann Couqui,,2000-06-17,2000,Synthetic,CB,Centre-back,right,194,1200000
+syn:19,Cyro Andri,,1997-04-18,1997,Synthetic,CM,Central midfielder,left,178,1700000
+syn:20,Pavel Varanmez,,1996-03-17,1996,Synthetic,DM,Defensive midfielder,right,187,2900000
+syn:21,Oren Coufelo,,1994-03-13,1994,Synthetic,GK,Goalkeeper,left,183,13900000
+syn:22,Dario Porgalpor,,1999-08-11,1999,Synthetic,AM,Attacking midfielder,right,173,1000000
+syn:23,Ugo Jalo,,1997-06-21,1997,Synthetic,FB,Full-back,left,194,2100000
+syn:24,Mateo Moqui,,1995-04-27,1995,Synthetic,GK,Goalkeeper,right,175,2200000
+syn:26,Zeno Cousensi,,1993-01-07,1993,Synthetic,GK,Goalkeeper,left,193,1700000
+syn:27,Goran Visi,,2000-12-15,2000,Synthetic,CM,Central midfielder,left,192,1600000
+syn:28,Pavel Fegal,,2001-07-12,2001,Synthetic,FB,Full-back,right,187,1600000
+syn:29,Cael Porgalja,,1992-06-11,1992,Synthetic,CB,Centre-back,left,171,16300000
+syn:30,Teo Varvarmo,,2001-02-07,2001,Synthetic,ST,Striker,left,180,1800000
+syn:31,Aris Raqui,,1993-06-10,1993,Synthetic,GK,Goalkeeper,right,191,18300000
+syn:32,Aris Moki,,1993-05-09,1993,Synthetic,W,Winger,right,175,2400000
+syn:34,Bram Kija,,1998-03-10,1998,Synthetic,CM,Central midfielder,left,181,3200000
+syn:35,Cael Zanvi,,1998-11-18,1998,Synthetic,FB,Full-back,left,172,1100000
+syn:36,Davi Sencougal,,1994-11-02,1994,Synthetic,CM,Central midfielder,left,171,7100000
+syn:37,Teo Dodri,,2004-06-10,2004,Synthetic,FB,Full-back,right,183,1400000
+syn:38,Ilan Varsi,,1996-06-16,1996,Synthetic,CB,Centre-back,right,192,800000
+syn:39,Bruno Mezmezros,,1998-09-24,1998,Synthetic,FB,Full-back,right,186,2500000
+syn:40,Elian Raqui,,1997-02-03,1997,Synthetic,GK,Goalkeeper,left,175,2100000
+syn:41,Mateo Jazanki,,2000-05-24,2000,Synthetic,AM,Attacking midfielder,left,175,2600000
+syn:42,Zeno Ansenki,,1996-06-19,1996,Synthetic,AM,Attacking midfielder,right,177,800000
+syn:43,Teo Sisen,,1999-02-08,1999,Synthetic,CM,Central midfielder,left,178,900000
+syn:44,Yann Torquivar,,1998-03-23,1998,Synthetic,AM,Attacking midfielder,left,174,1800000
+syn:45,Hugo Kizan,,1994-12-11,1994,Synthetic,GK,Goalkeeper,left,178,22100000
+syn:46,Joel Momez,,1994-04-28,1994,Synthetic,AM,Attacking midfielder,right,170,1700000
+syn:47,Pavel Toran,,2000-09-08,2000,Synthetic,GK,Goalkeeper,left,183,1700000
+syn:48,Cyro Quitorni,,2000-02-05,2000,Synthetic,W,Winger,left,176,2100000
+syn:49,Nilo Meznife,,2000-06-17,2000,Synthetic,CB,Centre-back,right,193,9500000
+syn:51,Hugo Drizan,,2000-09-18,2000,Synthetic,FB,Full-back,left,187,2300000
+syn:52,Cyro Coura,,1998-11-24,1998,Synthetic,AM,Attacking midfielder,left,192,1100000
+syn:53,Elian Jacoutor,,1998-05-28,1998,Synthetic,CM,Central midfielder,left,187,3600000
+syn:55,Cyro Mezvi,,1994-02-17,1994,Synthetic,AM,Attacking midfielder,right,188,5200000
+syn:56,Finn Lojaki,,1996-05-08,1996,Synthetic,CB,Centre-back,right,188,1900000
+syn:57,Kian Vivian,,2000-07-10,2000,Synthetic,ST,Striker,left,179,7500000
+syn:58,Hugo Rostalmez,,1994-02-26,1994,Synthetic,CB,Centre-back,right,183,6200000
+syn:59,Goran Rasilen,,1999-08-19,1999,Synthetic,FB,Full-back,right,178,10300000
+syn:60,Zeno Nijahu,,2002-09-17,2002,Synthetic,W,Winger,left,178,7800000
+syn:61,Pavel Kihu,,2000-03-10,2000,Synthetic,FB,Full-back,right,185,800000
+syn:62,Alen Motoran,,2000-04-17,2000,Synthetic,CB,Centre-back,right,189,3300000
+syn:63,Joel Rosmosen,,2002-11-27,2002,Synthetic,ST,Striker,left,179,7400000
+syn:64,Fabio Belnigal,,1997-08-19,1997,Synthetic,CB,Centre-back,right,182,2400000
+syn:65,Bruno Hudridri,,1998-03-12,1998,Synthetic,W,Winger,left,187,1100000
+syn:66,Alen Lensi,,1994-06-22,1994,Synthetic,FB,Full-back,right,192,8900000
+syn:68,Oren Dofedri,,2002-08-13,2002,Synthetic,CM,Central midfielder,right,193,2300000
+syn:69,Davi Quido,,2001-01-11,2001,Synthetic,CM,Central midfielder,left,189,3900000
+syn:70,Davi Doan,,1995-08-27,1995,Synthetic,W,Winger,left,173,6500000
+syn:72,Oren Senroski,,2004-07-09,2004,Synthetic,DM,Defensive midfielder,left,194,2600000
+syn:74,Hugo Quisendri,,2001-11-08,2001,Synthetic,AM,Attacking midfielder,left,172,7800000
+syn:75,Ilan Sidovi,,1999-04-03,1999,Synthetic,GK,Goalkeeper,right,177,5300000
+syn:77,Emre Dogalbel,,1996-02-28,1996,Synthetic,CB,Centre-back,right,190,5200000
+syn:78,Fabio Mezqui,,1999-08-09,1999,Synthetic,W,Winger,left,187,2300000
+syn:79,Bram Anvi,,1998-05-04,1998,Synthetic,FB,Full-back,right,181,1700000
+syn:80,Goran Zanki,,1993-03-13,1993,Synthetic,CB,Centre-back,left,186,1300000
+syn:81,Dario Meztal,,1998-03-28,1998,Synthetic,ST,Striker,right,176,13200000
+syn:82,Sami Talki,,1998-04-22,1998,Synthetic,AM,Attacking midfielder,right,187,1000000
+syn:83,Finn Varralen,,1998-09-26,1998,Synthetic,CB,Centre-back,right,174,1500000
+syn:84,Teo Tortalvar,,1995-08-05,1995,Synthetic,FB,Full-back,right,184,4700000
+syn:85,Finn Sidrital,,1994-09-27,1994,Synthetic,CB,Centre-back,right,172,700000
+syn:86,Ugo Dritormo,,1995-09-17,1995,Synthetic,FB,Full-back,right,189,5100000
+syn:87,Davi Mezsenmo,,1995-08-20,1995,Synthetic,CM,Central midfielder,right,185,5400000
+syn:88,Goran Torporvar,,1999-10-18,1999,Synthetic,DM,Defensive midfielder,left,179,14000000
+syn:89,Oren Vikiros,,1999-07-15,1999,Synthetic,GK,Goalkeeper,left,179,3800000
+syn:90,Rafa Jacou,,2004-03-09,2004,Synthetic,GK,Goalkeeper,left,180,700000
+syn:91,Zeno Coujabel,,2000-11-22,2000,Synthetic,CB,Centre-back,left,181,3400000
+syn:92,Davi Quidrisen,,1994-12-14,1994,Synthetic,FB,Full-back,left,187,2500000
+syn:93,Mateo Fetordo,,1999-12-27,1999,Synthetic,CB,Centre-back,left,189,3200000
+syn:94,Davi Torquimez,,1994-09-10,1994,Synthetic,FB,Full-back,right,175,1500000
+syn:95,Zeno Varpor,,2000-01-27,2000,Synthetic,ST,Striker,right,190,800000
+syn:96,Elian Fezan,,2002-07-22,2002,Synthetic,FB,Full-back,right,188,1300000
+syn:97,Davi Japor,,1995-06-10,1995,Synthetic,CB,Centre-back,right,192,8100000
+syn:98,Nilo Nital,,1997-01-26,1997,Synthetic,AM,Attacking midfielder,left,185,5100000
+syn:99,Vito Meztal,,1994-04-08,1994,Synthetic,W,Winger,right,176,5700000
+syn:100,Joel Fehucou,,1993-10-02,1993,Synthetic,CM,Central midfielder,right,173,3600000
+syn:101,Zeno Vivilo,,2005-09-28,2005,Synthetic,DM,Defensive midfielder,right,187,1700000
+syn:102,Sami Husenlen,,2001-08-24,2001,Synthetic,FB,Full-back,left,185,1200000
+syn:103,Zeno Sentor,,1998-06-03,1998,Synthetic,ST,Striker,left,179,7000000
+syn:104,Dario Silen,,1997-10-05,1997,Synthetic,DM,Defensive midfielder,right,180,1200000
+syn:105,Luca Rostor,,1999-08-21,1999,Synthetic,FB,Full-back,left,184,3200000
+syn:106,Aris Talvar,,1995-05-20,1995,Synthetic,FB,Full-back,left,193,1800000
+syn:107,Finn Lolo,,1994-04-18,1994,Synthetic,CB,Centre-back,right,193,7900000
+syn:108,Ilan Porrostal,,1996-11-28,1996,Synthetic,DM,Defensive midfielder,right,185,12600000
+syn:109,Aris Lenzan,,1999-03-26,1999,Synthetic,FB,Full-back,right,177,2100000
+syn:110,Zeno Mezcouni,,1999-03-12,1999,Synthetic,ST,Striker,right,181,15500000
+syn:111,Mateo Belzangal,,2003-08-27,2003,Synthetic,CM,Central midfielder,left,177,2500000
+syn:112,Goran Viquihu,,1999-07-11,1999,Synthetic,DM,Defensive midfielder,left,194,1500000
+syn:113,Ilan Jator,,1995-09-09,1995,Synthetic,CM,Central midfielder,left,176,2600000
+syn:114,Goran Varros,,2000-09-04,2000,Synthetic,CB,Centre-back,left,171,4000000
+syn:115,Yann Belfezan,,1997-11-13,1997,Synthetic,CB,Centre-back,right,187,5800000
+syn:116,Aris Fevar,,1995-04-24,1995,Synthetic,GK,Goalkeeper,left,176,700000
+syn:117,Emre Zantalros,,1998-12-05,1998,Synthetic,W,Winger,left,181,1000000
+syn:118,Nilo Huquini,,1993-11-09,1993,Synthetic,FB,Full-back,right,188,2000000
+syn:119,Aris Galsi,,1999-11-04,1999,Synthetic,CM,Central midfielder,right,173,2000000
+syn:121,Joel Mocoulo,,1996-04-14,1996,Synthetic,FB,Full-back,left,176,10900000
+syn:122,Nilo Varsi,,1998-02-04,1998,Synthetic,CB,Centre-back,left,172,3500000
+syn:123,Ilan Kigalros,,1998-03-24,1998,Synthetic,GK,Goalkeeper,right,177,24000000
+syn:124,Nilo Rarostor,,1994-09-01,1994,Synthetic,DM,Defensive midfielder,left,180,4000000
+syn:125,Dario Quife,,1999-04-07,1999,Synthetic,CB,Centre-back,left,184,4500000
+syn:126,Finn Nihudo,,1999-06-27,1999,Synthetic,ST,Striker,right,176,4700000
+syn:127,Yann Sipor,,1999-03-03,1999,Synthetic,AM,Attacking midfielder,right,185,5800000
+syn:128,Hugo Roslo,,1994-11-14,1994,Synthetic,CB,Centre-back,right,182,6100000
+syn:129,Bram Sensen,,2000-08-11,2000,Synthetic,W,Winger,right,179,5200000
+syn:130,Mateo Moansen,,2000-03-07,2000,Synthetic,ST,Striker,right,173,700000
+syn:131,Rafa Huanlen,,1995-10-15,1995,Synthetic,GK,Goalkeeper,left,186,2800000
+syn:132,Ugo Talvilo,,1997-12-21,1997,Synthetic,FB,Full-back,right,190,3100000
+syn:133,Finn Jagalan,,1995-09-05,1995,Synthetic,GK,Goalkeeper,right,170,2700000
+syn:134,Yann Cousi,,1997-07-26,1997,Synthetic,W,Winger,right,186,900000
+syn:135,Kian Anlencou,,1998-03-08,1998,Synthetic,AM,Attacking midfielder,left,186,5200000
+syn:137,Finn Galdofe,,1994-08-16,1994,Synthetic,W,Winger,left,189,1900000
+syn:138,Mateo Razanvi,,1995-07-25,1995,Synthetic,GK,Goalkeeper,right,180,5800000
+syn:139,Bruno Sidriros,,2005-04-12,2005,Synthetic,W,Winger,right,192,20700000
+syn:140,Kian Rabeltor,,1996-11-18,1996,Synthetic,GK,Goalkeeper,left,191,3600000
+syn:141,Rafa Porbel,,1998-08-14,1998,Synthetic,CB,Centre-back,right,184,1600000
+syn:142,Bruno Varvar,,1995-04-06,1995,Synthetic,AM,Attacking midfielder,right,185,10700000
+syn:143,Teo Lenanzan,,1995-01-12,1995,Synthetic,ST,Striker,left,191,5300000
+syn:144,Sami Torlo,,1996-09-02,1996,Synthetic,GK,Goalkeeper,right,180,1800000
+syn:145,Aris Motor,,2001-10-11,2001,Synthetic,CB,Centre-back,left,192,2500000
+syn:146,Oren Sendo,,1997-02-17,1997,Synthetic,FB,Full-back,right,179,800000
+syn:147,Cyro Locou,,1997-05-03,1997,Synthetic,FB,Full-back,left,194,2300000
+syn:148,Kian Jaja,,1994-04-23,1994,Synthetic,ST,Striker,left,194,14300000
+syn:149,Dario Varsen,,1999-08-15,1999,Synthetic,ST,Striker,right,176,18200000
+syn:150,Ugo Galmo,,1998-08-26,1998,Synthetic,W,Winger,left,181,1400000
+syn:151,Oren Zanpor,,1996-12-10,1996,Synthetic,GK,Goalkeeper,right,173,1600000
+syn:152,Ugo Huvi,,1999-11-17,1999,Synthetic,GK,Goalkeeper,right,181,1100000
+syn:153,Aris Drigalfe,,2002-01-21,2002,Synthetic,DM,Defensive midfielder,left,191,32100000
+syn:154,Yann Antor,,1996-04-01,1996,Synthetic,W,Winger,right,186,2400000
+syn:155,Aris Kitalgal,,1995-12-23,1995,Synthetic,ST,Striker,right,170,14300000
+syn:156,Elian Vitor,,1996-08-21,1996,Synthetic,GK,Goalkeeper,right,192,1700000
+syn:157,Ugo Nilen,,1996-06-19,1996,Synthetic,CM,Central midfielder,right,186,2300000
+syn:158,Joel Pordritor,,1995-07-15,1995,Synthetic,GK,Goalkeeper,left,179,3100000
+syn:159,Luca Fecou,,1994-07-04,1994,Synthetic,CM,Central midfielder,left,187,700000
+syn:160,Davi Senvitor,,2007-04-13,2007,Synthetic,CB,Centre-back,left,194,8500000
+syn:161,Yann Mezpordo,,1996-07-14,1996,Synthetic,GK,Goalkeeper,left,180,3900000
+syn:162,Pavel Sidrisi,,2001-08-10,2001,Synthetic,DM,Defensive midfielder,right,174,3000000
+syn:163,Dario Varlomez,,1994-01-23,1994,Synthetic,GK,Goalkeeper,right,192,13700000
+syn:164,Mateo Couhumo,,1997-06-12,1997,Synthetic,DM,Defensive midfielder,right,177,53900000
+syn:165,Bruno Taldrini,,1993-07-27,1993,Synthetic,CB,Centre-back,right,187,2500000
+syn:166,Nilo Couloki,,2000-08-14,2000,Synthetic,AM,Attacking midfielder,right,183,2000000
+syn:167,Bram Porsen,,1992-10-12,1992,Synthetic,CB,Centre-back,left,191,4800000
+syn:168,Goran Quizan,,1999-05-08,1999,Synthetic,W,Winger,right,185,1400000
+syn:169,Luca Anan,,2003-02-01,2003,Synthetic,CM,Central midfielder,right,185,6400000
+syn:171,Bruno Jaanvar,,2008-09-05,2008,Synthetic,CM,Central midfielder,left,194,16800000
+syn:172,Nilo Talzan,,1995-01-23,1995,Synthetic,GK,Goalkeeper,right,178,3800000
+syn:173,Yann Zantor,,1997-01-11,1997,Synthetic,ST,Striker,right,179,6800000
+syn:174,Elian Kiracou,,1998-09-07,1998,Synthetic,FB,Full-back,right,177,7000000
+syn:175,Davi Jagalbel,,1999-12-25,1999,Synthetic,CM,Central midfielder,right,174,1000000
+syn:176,Elian Kibelfe,,1998-12-07,1998,Synthetic,CB,Centre-back,right,187,600000
+syn:177,Mateo Nicou,,2003-09-21,2003,Synthetic,GK,Goalkeeper,right,173,12700000
+syn:178,Fabio Moporlen,,1996-02-27,1996,Synthetic,CB,Centre-back,left,179,2600000
+syn:179,Finn Zanvar,,2000-01-13,2000,Synthetic,CB,Centre-back,right,177,22300000
+syn:180,Gael Lenra,,1994-03-08,1994,Synthetic,W,Winger,left,191,1900000
+syn:181,Kian Tallo,,1997-04-17,1997,Synthetic,FB,Full-back,right,194,2500000
+syn:183,Luca Dosizan,,1999-11-18,1999,Synthetic,AM,Attacking midfielder,right,173,3400000
+syn:184,Teo Niqui,,1997-07-10,1997,Synthetic,FB,Full-back,left,189,4300000
+syn:185,Alen Anzanfe,,2004-02-11,2004,Synthetic,CM,Central midfielder,left,172,3000000
+syn:186,Bram Varni,,1994-09-01,1994,Synthetic,ST,Striker,left,173,5500000
+syn:187,Zeno Anvi,,1992-08-19,1992,Synthetic,FB,Full-back,right,177,12500000
+syn:188,Aris Kimezlo,,1992-03-20,1992,Synthetic,W,Winger,right,192,3700000
+syn:189,Emre Portor,,1999-12-28,1999,Synthetic,FB,Full-back,right,170,13100000
+syn:190,Bruno Zananja,,1996-01-17,1996,Synthetic,DM,Defensive midfielder,left,183,15400000
+syn:191,Vito Kimo,,1993-12-10,1993,Synthetic,CM,Central midfielder,right,190,9100000
+syn:192,Ilan Hujavi,,2007-06-01,2007,Synthetic,AM,Attacking midfielder,left,186,1500000
+syn:193,Finn Sijalen,,1996-12-10,1996,Synthetic,W,Winger,right,190,1900000
+syn:194,Elian Couroshu,,1998-02-19,1998,Synthetic,AM,Attacking midfielder,left,185,1400000
+syn:195,Finn Jalo,,1999-01-28,1999,Synthetic,CB,Centre-back,left,178,3600000
+syn:196,Alen Nifeni,,1995-03-02,1995,Synthetic,AM,Attacking midfielder,left,192,6300000
+syn:197,Hugo Anbel,,1993-11-24,1993,Synthetic,ST,Striker,right,178,7000000
+syn:199,Kian Jasi,,2001-02-14,2001,Synthetic,AM,Attacking midfielder,right,171,700000
+syn:200,Cyro Nidri,,1996-07-10,1996,Synthetic,GK,Goalkeeper,left,185,2000000
+syn:201,Elian Roski,,2000-03-17,2000,Synthetic,DM,Defensive midfielder,right,170,9600000
+syn:202,Vito Loros,,1998-06-18,1998,Synthetic,CM,Central midfielder,left,191,1700000
+syn:203,Hugo Rani,,1996-12-20,1996,Synthetic,CB,Centre-back,right,188,3800000
+syn:204,Elian Kian,,1993-01-03,1993,Synthetic,ST,Striker,right,189,10100000
+syn:205,Sami Mezni,,1999-03-13,1999,Synthetic,DM,Defensive midfielder,right,178,2200000
+syn:206,Finn Jaja,,1997-11-01,1997,Synthetic,W,Winger,left,185,4000000
+syn:207,Bruno Varros,,1997-07-03,1997,Synthetic,AM,Attacking midfielder,left,178,7600000
+syn:208,Emre Drido,,1997-06-12,1997,Synthetic,ST,Striker,left,175,3500000
+syn:209,Goran Sifebel,,2003-11-03,2003,Synthetic,CM,Central midfielder,right,183,3300000
+syn:210,Kian Quianra,,1999-08-06,1999,Synthetic,W,Winger,left,176,8500000
+syn:211,Finn Couloja,,1999-08-25,1999,Synthetic,FB,Full-back,right,192,9200000
+syn:212,Pavel Bellopor,,1998-06-28,1998,Synthetic,W,Winger,left,170,900000
+syn:213,Davi Drikife,,1998-05-17,1998,Synthetic,ST,Striker,right,191,5800000
+syn:214,Oren Kimez,,1998-01-09,1998,Synthetic,CM,Central midfielder,right,172,1100000
+syn:215,Teo Drivi,,1994-08-19,1994,Synthetic,GK,Goalkeeper,left,184,700000
+syn:216,Oren Kinian,,1994-10-13,1994,Synthetic,CB,Centre-back,left,185,8000000
+syn:217,Cael Felentor,,1997-03-07,1997,Synthetic,W,Winger,right,176,2600000
+syn:218,Cael Quini,,1998-11-04,1998,Synthetic,AM,Attacking midfielder,left,186,8500000
+syn:220,Goran Andobel,,1998-04-08,1998,Synthetic,AM,Attacking midfielder,right,189,3200000
+syn:221,Goran Drilo,,1994-03-01,1994,Synthetic,W,Winger,left,185,9600000
+syn:222,Alen Dogalmez,,2001-08-05,2001,Synthetic,FB,Full-back,left,181,12000000
+syn:223,Sami Huzan,,2005-07-28,2005,Synthetic,ST,Striker,left,182,1900000
+syn:224,Zeno Sicou,,1993-12-23,1993,Synthetic,CB,Centre-back,left,189,5800000
+syn:225,Davi Portal,,1999-09-09,1999,Synthetic,FB,Full-back,right,171,1100000
+syn:226,Emre Beldrihu,,1999-03-14,1999,Synthetic,CM,Central midfielder,left,188,5300000
+syn:227,Elian Talrosqui,,1999-11-07,1999,Synthetic,CM,Central midfielder,left,192,300000
+syn:228,Pavel Sentorra,,1995-08-15,1995,Synthetic,ST,Striker,right,174,5600000
+syn:229,Ugo Anquimez,,2006-08-24,2006,Synthetic,CB,Centre-back,right,176,3900000
+syn:230,Aris Doni,,2002-08-20,2002,Synthetic,ST,Striker,right,179,21700000
+syn:231,Aris Driquilen,,1995-04-25,1995,Synthetic,CM,Central midfielder,right,192,3800000
+syn:232,Luca Coudrilo,,1995-09-07,1995,Synthetic,CM,Central midfielder,left,179,1000000
+syn:233,Ilan Logal,,2001-02-03,2001,Synthetic,ST,Striker,right,172,3300000
+syn:234,Zeno Dovar,,1997-07-28,1997,Synthetic,FB,Full-back,left,193,8200000
+syn:235,Bruno Anlen,,1999-09-14,1999,Synthetic,GK,Goalkeeper,left,177,4400000
+syn:236,Bruno Jajaki,,2000-06-08,2000,Synthetic,FB,Full-back,right,172,1100000
+syn:237,Yann Rossi,,1996-06-26,1996,Synthetic,AM,Attacking midfielder,right,190,5900000
+syn:238,Oren Doki,,1994-08-12,1994,Synthetic,AM,Attacking midfielder,right,183,1800000
+syn:239,Mateo Varvar,,1999-10-08,1999,Synthetic,CB,Centre-back,right,188,29200000
+syn:240,Hugo Zanfe,,2000-09-19,2000,Synthetic,W,Winger,right,176,2600000
+syn:241,Alen Felodo,,1996-05-11,1996,Synthetic,ST,Striker,left,188,2800000
+syn:242,Luca Coucouvar,,1994-02-28,1994,Synthetic,CB,Centre-back,left,170,4100000
+syn:243,Davi Driloan,,1997-11-09,1997,Synthetic,CB,Centre-back,right,177,2700000
+syn:244,Alen Huquini,,1998-03-14,1998,Synthetic,CM,Central midfielder,left,189,57100000
+syn:245,Davi Zantormo,,1996-01-12,1996,Synthetic,AM,Attacking midfielder,right,182,1200000
+syn:246,Sami Galcou,,2002-02-03,2002,Synthetic,W,Winger,right,192,1800000
+syn:247,Bruno Zanlenan,,1998-05-22,1998,Synthetic,CM,Central midfielder,left,170,1300000
+syn:248,Sami Vitorhu,,1997-06-21,1997,Synthetic,FB,Full-back,right,182,600000
+syn:249,Elian Drinija,,1996-10-25,1996,Synthetic,AM,Attacking midfielder,right,179,15400000
+syn:250,Elian Couni,,2000-02-24,2000,Synthetic,W,Winger,right,193,3000000
+syn:251,Cael Huvi,,1994-01-10,1994,Synthetic,DM,Defensive midfielder,left,184,1300000
+syn:252,Bruno Kimohu,,2004-11-12,2004,Synthetic,FB,Full-back,left,170,6400000
+syn:253,Emre Belmezfe,,1997-06-18,1997,Synthetic,W,Winger,right,171,3300000
+syn:254,Davi Anvi,,1997-06-05,1997,Synthetic,ST,Striker,right,171,12300000
+syn:255,Nilo Febel,,2002-12-25,2002,Synthetic,CM,Central midfielder,left,189,3900000
+syn:256,Finn Kimezros,,2004-08-17,2004,Synthetic,CM,Central midfielder,left,182,10000000
+syn:257,Gael Kisen,,2000-02-10,2000,Synthetic,AM,Attacking midfielder,right,178,6100000
+syn:258,Cael Porvido,,2002-11-06,2002,Synthetic,GK,Goalkeeper,right,191,18000000
+syn:259,Cyro Porfe,,1993-04-08,1993,Synthetic,GK,Goalkeeper,left,184,900000
+syn:260,Sami Mogal,,2005-03-14,2005,Synthetic,CB,Centre-back,left,170,4200000
+syn:261,Vito Doqui,,1998-12-13,1998,Synthetic,AM,Attacking midfielder,left,189,22400000
+syn:262,Hugo Galgal,,2003-02-23,2003,Synthetic,FB,Full-back,left,176,1300000
+syn:263,Aris Dribel,,1998-07-07,1998,Synthetic,AM,Attacking midfielder,right,184,1400000
+syn:264,Ugo Jabellen,,2001-10-26,2001,Synthetic,DM,Defensive midfielder,right,184,2100000
+syn:265,Aris Varra,,1992-01-22,1992,Synthetic,FB,Full-back,left,173,1800000
+syn:266,Cael Sisen,,1993-12-07,1993,Synthetic,CM,Central midfielder,left,179,4400000
+syn:267,Cael Talporfe,,1994-06-26,1994,Synthetic,CM,Central midfielder,right,193,3500000
+syn:268,Luca Belvartor,,1993-08-16,1993,Synthetic,DM,Defensive midfielder,right,191,200000
+syn:269,Pavel Lendodri,,2001-11-20,2001,Synthetic,FB,Full-back,left,175,2900000
+syn:270,Rafa Jakisi,,1999-07-17,1999,Synthetic,DM,Defensive midfielder,right,172,6900000
+syn:271,Nilo Hutorki,,1995-11-14,1995,Synthetic,DM,Defensive midfielder,right,183,1600000
+syn:272,Sami Belmo,,2004-02-28,2004,Synthetic,CB,Centre-back,left,187,1200000
+syn:273,Elian Cousi,,1996-02-10,1996,Synthetic,CB,Centre-back,left,186,1900000
+syn:274,Joel Belhufe,,2004-10-17,2004,Synthetic,CM,Central midfielder,right,193,5500000
+syn:275,Zeno Porhutal,,2002-07-26,2002,Synthetic,ST,Striker,left,185,4200000
+syn:276,Alen Talbelsen,,2004-10-02,2004,Synthetic,FB,Full-back,right,192,1300000
+syn:277,Aris Kidri,,1996-02-17,1996,Synthetic,ST,Striker,right,181,2100000
+syn:278,Luca Huvian,,1996-01-22,1996,Synthetic,ST,Striker,right,181,4000000
+syn:279,Yann Mezdrivi,,1998-01-01,1998,Synthetic,CB,Centre-back,left,170,2700000
+syn:280,Nilo Varni,,2000-08-13,2000,Synthetic,AM,Attacking midfielder,right,194,2200000
+syn:281,Zeno Belnini,,1999-01-12,1999,Synthetic,CM,Central midfielder,right,185,1500000
+syn:282,Goran Torvar,,1998-01-01,1998,Synthetic,ST,Striker,right,178,2300000
+syn:283,Aris Loquisen,,1997-09-24,1997,Synthetic,GK,Goalkeeper,right,185,2800000
+syn:284,Bruno Sencou,,2000-04-20,2000,Synthetic,CB,Centre-back,left,179,1700000
+syn:285,Zeno Vardo,,1999-01-12,1999,Synthetic,GK,Goalkeeper,right,177,3700000
+syn:286,Zeno Ralencou,,2001-07-28,2001,Synthetic,W,Winger,left,175,2400000
+syn:287,Joel Dora,,2001-12-05,2001,Synthetic,GK,Goalkeeper,right,173,5400000
+syn:288,Goran Coupor,,1999-03-27,1999,Synthetic,AM,Attacking midfielder,left,182,1600000
+syn:289,Teo Couhumez,,1998-09-26,1998,Synthetic,CB,Centre-back,left,180,7800000
+syn:290,Rafa Porracou,,1994-02-18,1994,Synthetic,W,Winger,left,192,3200000
+syn:291,Bram Rosbelvar,,1996-04-21,1996,Synthetic,CB,Centre-back,right,191,900000
+syn:292,Joel Felen,,1997-08-27,1997,Synthetic,CM,Central midfielder,right,183,6000000
+syn:293,Zeno Taldo,,1997-01-04,1997,Synthetic,CB,Centre-back,right,186,600000
+syn:294,Cael Antor,,1997-12-24,1997,Synthetic,CM,Central midfielder,right,179,2400000
+syn:295,Yann Kija,,1996-07-24,1996,Synthetic,FB,Full-back,right,189,2000000
+syn:296,Fabio Ralencou,,1996-12-27,1996,Synthetic,CM,Central midfielder,right,181,800000
+syn:297,Nilo Lennira,,2000-07-05,2000,Synthetic,W,Winger,left,170,2500000
+syn:298,Finn Rafefe,,1996-07-05,1996,Synthetic,W,Winger,left,186,700000
+syn:299,Teo Nido,,2001-01-05,2001,Synthetic,CB,Centre-back,right,184,44800000
+syn:300,Mateo Rostorqui,,1999-10-02,1999,Synthetic,CB,Centre-back,left,186,14000000
+syn:301,Fabio Dovi,,1997-08-27,1997,Synthetic,DM,Defensive midfielder,right,173,6700000
+syn:302,Aris Pormezan,,1998-07-22,1998,Synthetic,ST,Striker,left,193,6200000
+syn:303,Finn Vira,,1999-10-02,1999,Synthetic,CM,Central midfielder,right,185,3900000
+syn:304,Alen Nimofe,,1999-09-28,1999,Synthetic,CM,Central midfielder,left,186,12700000
+syn:305,Yann Jadosen,,1996-08-23,1996,Synthetic,W,Winger,left,170,1400000
+syn:306,Pavel Senbel,,2005-03-03,2005,Synthetic,CB,Centre-back,left,189,33400000
+syn:307,Hugo Dotorcou,,1996-11-24,1996,Synthetic,AM,Attacking midfielder,left,190,7200000
+syn:308,Pavel Quiporcou,,1994-06-13,1994,Synthetic,CB,Centre-back,left,189,500000
+syn:309,Cyro Senja,,1993-05-11,1993,Synthetic,AM,Attacking midfielder,left,187,23000000
+syn:310,Bram Belzangal,,2000-08-25,2000,Synthetic,W,Winger,right,180,26200000
+syn:311,Aris Javi,,2004-11-07,2004,Synthetic,CB,Centre-back,right,174,9900000
+syn:312,Sami Mezni,,1998-02-14,1998,Synthetic,ST,Striker,left,184,3100000
+syn:313,Aris Talrahu,,2002-08-16,2002,Synthetic,GK,Goalkeeper,right,180,4800000
+syn:314,Oren Talros,,1996-11-21,1996,Synthetic,CM,Central midfielder,left,185,7200000
+syn:315,Cael Losi,,1992-03-28,1992,Synthetic,ST,Striker,right,174,1400000
+syn:316,Bruno Sital,,2000-12-05,2000,Synthetic,W,Winger,right,193,1200000
+syn:317,Rafa Lozanki,,1999-08-11,1999,Synthetic,AM,Attacking midfielder,left,182,11500000
+syn:318,Nilo Zanrosdo,,1993-01-03,1993,Synthetic,AM,Attacking midfielder,left,184,2300000
+syn:319,Pavel Driki,,2005-03-18,2005,Synthetic,W,Winger,left,174,1800000
+syn:320,Zeno Galsi,,1997-10-28,1997,Synthetic,FB,Full-back,right,193,3300000
+syn:321,Mateo Varvarmez,,2003-07-06,2003,Synthetic,CB,Centre-back,right,191,5000000
+syn:322,Kian Siantor,,1997-04-25,1997,Synthetic,CB,Centre-back,left,194,1900000
+syn:323,Ugo Talvar,,1995-01-19,1995,Synthetic,FB,Full-back,right,190,400000
+syn:324,Yann Nizan,,2000-10-17,2000,Synthetic,DM,Defensive midfielder,left,178,4900000
+syn:325,Pavel Zanroscou,,1999-09-05,1999,Synthetic,W,Winger,right,192,5800000
+syn:326,Finn Anmezlen,,1995-06-14,1995,Synthetic,W,Winger,left,171,1500000
+syn:327,Kian Torcou,,2001-12-10,2001,Synthetic,CM,Central midfielder,right,174,6900000
+syn:328,Emre Courostal,,1994-08-04,1994,Synthetic,CM,Central midfielder,right,193,1300000
+syn:329,Bruno Jafetor,,1996-06-16,1996,Synthetic,AM,Attacking midfielder,left,173,1000000
+syn:330,Nilo Dritor,,1997-03-12,1997,Synthetic,DM,Defensive midfielder,right,184,3300000
+syn:331,Goran Belki,,2001-07-08,2001,Synthetic,CM,Central midfielder,left,187,600000
+syn:332,Bram Ragal,,1999-03-21,1999,Synthetic,W,Winger,right,186,3500000
+syn:333,Pavel Galzan,,1995-08-21,1995,Synthetic,CM,Central midfielder,left,174,7100000
+syn:334,Bram Vidolo,,1992-08-20,1992,Synthetic,FB,Full-back,right,175,1300000
+syn:335,Kian Vife,,1997-04-01,1997,Synthetic,FB,Full-back,right,171,3100000
+syn:336,Yann Rabel,,1995-05-03,1995,Synthetic,FB,Full-back,right,173,2700000
+syn:337,Ilan Mezhubel,,1998-03-16,1998,Synthetic,CB,Centre-back,left,191,5500000
+syn:338,Davi Feni,,1993-03-23,1993,Synthetic,FB,Full-back,right,177,3800000
+syn:339,Kian Husenmo,,1996-11-14,1996,Synthetic,W,Winger,right,182,2700000
+syn:340,Oren Zanfe,,1992-08-06,1992,Synthetic,GK,Goalkeeper,left,189,2900000
+syn:341,Mateo Sihuan,,1993-05-27,1993,Synthetic,ST,Striker,left,179,2000000
+syn:342,Yann Nisi,,1997-01-25,1997,Synthetic,CB,Centre-back,right,178,4400000
+syn:343,Rafa Zanra,,1995-09-13,1995,Synthetic,CB,Centre-back,left,186,5900000
+syn:344,Elian Galmolo,,2000-10-05,2000,Synthetic,FB,Full-back,right,170,900000
+syn:345,Rafa Vini,,1994-11-02,1994,Synthetic,ST,Striker,left,182,1600000
+syn:346,Gael Anlen,,1996-01-21,1996,Synthetic,AM,Attacking midfielder,right,184,9900000
+syn:347,Dario Lokilo,,2003-02-22,2003,Synthetic,GK,Goalkeeper,right,194,2100000
+syn:348,Cyro Andotal,,1994-04-19,1994,Synthetic,CB,Centre-back,left,170,10300000
+syn:349,Kian Javarros,,1997-09-17,1997,Synthetic,ST,Striker,left,184,94700000
+syn:350,Alen Drisiqui,,1998-02-13,1998,Synthetic,FB,Full-back,left,181,4700000
+syn:351,Dario Fedolo,,1996-06-24,1996,Synthetic,ST,Striker,right,179,3400000
+syn:352,Finn Raros,,2000-12-15,2000,Synthetic,CM,Central midfielder,left,176,11900000
+syn:353,Bruno Coutalbel,,2001-06-18,2001,Synthetic,GK,Goalkeeper,right,188,3700000
+syn:354,Mateo Belhu,,1999-04-07,1999,Synthetic,W,Winger,left,184,1800000
+syn:355,Rafa Torpordo,,2004-07-17,2004,Synthetic,FB,Full-back,right,190,4700000
+syn:356,Sami Jadrira,,1996-01-14,1996,Synthetic,FB,Full-back,right,187,2200000
+syn:357,Ilan Senloni,,1998-06-18,1998,Synthetic,ST,Striker,right,193,18400000
+syn:358,Pavel Zantal,,1998-04-15,1998,Synthetic,FB,Full-back,right,172,3000000
+syn:359,Alen Belan,,1996-04-14,1996,Synthetic,FB,Full-back,left,177,1400000
+syn:360,Bram Quido,,1997-03-15,1997,Synthetic,CM,Central midfielder,right,176,6000000
+syn:361,Yann Lental,,1996-12-28,1996,Synthetic,W,Winger,left,180,1800000
+syn:362,Dario Rapor,,1999-02-21,1999,Synthetic,W,Winger,right,190,3500000
+syn:363,Emre Dotal,,2001-02-25,2001,Synthetic,W,Winger,left,176,11800000
+syn:364,Zeno Kivi,,1996-03-14,1996,Synthetic,CM,Central midfielder,left,179,5200000
+syn:365,Finn Simo,,2001-05-25,2001,Synthetic,W,Winger,left,183,3700000
+syn:366,Oren Rapordri,,1996-11-10,1996,Synthetic,FB,Full-back,right,178,8900000
+syn:367,Vito Taltorlo,,1994-11-13,1994,Synthetic,ST,Striker,right,177,10500000
+syn:368,Aris Humezan,,1995-03-02,1995,Synthetic,AM,Attacking midfielder,right,174,1600000
+syn:369,Cael Quirosja,,1996-07-06,1996,Synthetic,ST,Striker,right,178,5600000
+syn:370,Davi Logallen,,1999-07-18,1999,Synthetic,CB,Centre-back,right,192,4000000
+syn:371,Alen Kija,,1998-07-04,1998,Synthetic,FB,Full-back,left,192,11700000
+syn:372,Dario Mohu,,1996-07-26,1996,Synthetic,DM,Defensive midfielder,left,189,7500000
+syn:373,Bruno Jacou,,2001-07-02,2001,Synthetic,CM,Central midfielder,left,178,2400000
+syn:374,Goran Mobel,,1999-11-01,1999,Synthetic,CM,Central midfielder,right,187,59200000
+syn:375,Luca Loan,,1997-07-02,1997,Synthetic,FB,Full-back,left,182,1200000
+syn:376,Ilan Dodrisen,,1995-09-10,1995,Synthetic,W,Winger,left,178,700000
+syn:377,Finn Ravar,,1999-12-25,1999,Synthetic,W,Winger,right,194,1200000
+syn:378,Luca Torvi,,1996-01-15,1996,Synthetic,GK,Goalkeeper,right,188,3300000
+syn:379,Bram Mezanfe,,1994-06-26,1994,Synthetic,CM,Central midfielder,left,193,2900000
+syn:380,Cael Belrani,,2003-02-21,2003,Synthetic,GK,Goalkeeper,right,176,600000
+syn:381,Sami Mezdri,,2001-08-17,2001,Synthetic,AM,Attacking midfielder,right,178,4700000
+syn:382,Luca Lovar,,1998-04-26,1998,Synthetic,CB,Centre-back,left,191,1700000
+syn:383,Nilo Lenki,,1996-10-06,1996,Synthetic,CM,Central midfielder,right,194,500000
+syn:384,Zeno Loquimo,,1997-07-02,1997,Synthetic,FB,Full-back,right,187,2100000
+syn:385,Cael Taldo,,1998-05-02,1998,Synthetic,W,Winger,left,173,6400000
+syn:386,Cyro Razan,,2003-02-09,2003,Synthetic,FB,Full-back,left,188,4700000
+syn:387,Fabio Talzanvar,,2000-06-26,2000,Synthetic,W,Winger,left,172,2800000
+syn:388,Fabio Vihu,,1992-11-23,1992,Synthetic,DM,Defensive midfielder,left,187,600000
+syn:389,Cyro Nizan,,1995-12-10,1995,Synthetic,FB,Full-back,right,184,1100000
+syn:390,Ilan Zanan,,2000-11-04,2000,Synthetic,CM,Central midfielder,left,183,1800000
+syn:391,Zeno Lovar,,1999-12-24,1999,Synthetic,CB,Centre-back,right,170,4400000
+syn:392,Luca Torfean,,1997-02-10,1997,Synthetic,W,Winger,right,186,4200000
+syn:393,Bram Rosvi,,1997-01-03,1997,Synthetic,CB,Centre-back,right,191,1500000
+syn:394,Davi Senhu,,1993-07-21,1993,Synthetic,GK,Goalkeeper,right,184,15500000
+syn:395,Yann Varlentor,,2002-11-21,2002,Synthetic,DM,Defensive midfielder,left,186,11400000
+syn:396,Rafa Beldri,,1994-04-18,1994,Synthetic,W,Winger,left,188,3700000
+syn:397,Yann Rakira,,2002-07-10,2002,Synthetic,W,Winger,right,190,7500000
+syn:398,Cael Talsiki,,1992-02-26,1992,Synthetic,ST,Striker,left,171,1800000
+syn:399,Joel Counidri,,1993-11-24,1993,Synthetic,FB,Full-back,right,181,1200000
+syn:400,Pavel Quicou,,1998-11-28,1998,Synthetic,CM,Central midfielder,right,177,1800000
+syn:401,Kian Varni,,2000-09-17,2000,Synthetic,FB,Full-back,right,182,2700000
+syn:403,Cyro Drini,,1993-12-07,1993,Synthetic,GK,Goalkeeper,left,185,2700000
+syn:404,Teo Meznicou,,2000-08-07,2000,Synthetic,GK,Goalkeeper,right,180,4200000
+syn:405,Gael Kisi,,2000-06-10,2000,Synthetic,AM,Attacking midfielder,left,189,4600000
+syn:406,Luca Meztalqui,,2000-07-03,2000,Synthetic,AM,Attacking midfielder,left,172,2500000
+syn:407,Finn Zananqui,,1997-01-23,1997,Synthetic,W,Winger,left,176,9800000
+syn:408,Yann Tallo,,1999-04-04,1999,Synthetic,CB,Centre-back,right,171,9700000
+syn:409,Goran Mezjacou,,2001-01-12,2001,Synthetic,CB,Centre-back,left,172,38700000
+syn:410,Hugo Torquidri,,1997-01-12,1997,Synthetic,CM,Central midfielder,right,179,5100000
+syn:411,Vito Lojaan,,2001-10-23,2001,Synthetic,ST,Striker,right,178,6500000
+syn:412,Vito Jazan,,2000-06-11,2000,Synthetic,FB,Full-back,left,183,4000000
+syn:414,Nilo Jafe,,1996-04-17,1996,Synthetic,W,Winger,right,176,800000
+syn:415,Goran Galsilen,,1994-12-05,1994,Synthetic,FB,Full-back,right,174,2100000
+syn:416,Vito Zanmo,,2000-10-23,2000,Synthetic,ST,Striker,right,180,3600000
+syn:417,Aris Rosmora,,1993-06-10,1993,Synthetic,DM,Defensive midfielder,left,173,5100000
+syn:418,Teo Quiquitor,,1996-07-19,1996,Synthetic,CM,Central midfielder,right,173,3700000
+syn:419,Finn Simoqui,,2000-02-07,2000,Synthetic,CB,Centre-back,right,174,4800000
+syn:420,Hugo Jalo,,2000-08-14,2000,Synthetic,CB,Centre-back,right,185,6900000
+syn:421,Cyro Logal,,1997-09-03,1997,Synthetic,CB,Centre-back,left,194,8500000
+syn:422,Zeno Lovipor,,2002-02-06,2002,Synthetic,W,Winger,right,179,8800000
+syn:423,Teo Sitorvi,,1994-01-21,1994,Synthetic,CM,Central midfielder,right,176,2100000
+syn:424,Hugo Varlen,,2001-03-28,2001,Synthetic,FB,Full-back,right,170,20100000
+syn:425,Ugo Anhu,,2001-07-26,2001,Synthetic,W,Winger,left,174,10400000
+syn:426,Emre Husiqui,,1994-08-19,1994,Synthetic,FB,Full-back,left,175,2800000
+syn:427,Hugo Japorvi,,1995-05-08,1995,Synthetic,ST,Striker,left,171,2900000
+syn:428,Cyro Senqui,,1995-05-02,1995,Synthetic,DM,Defensive midfielder,right,181,5200000
+syn:429,Vito Lenmez,,2001-10-24,2001,Synthetic,ST,Striker,left,174,3200000
+syn:430,Kian Fecoulen,,1994-11-06,1994,Synthetic,DM,Defensive midfielder,right,175,4300000
+syn:431,Joel Talfera,,1997-10-28,1997,Synthetic,AM,Attacking midfielder,right,175,15900000
+syn:432,Oren Rosloros,,2002-03-02,2002,Synthetic,FB,Full-back,left,175,2500000
+syn:434,Luca Zanmezbel,,1992-02-18,1992,Synthetic,FB,Full-back,right,170,3200000
+syn:435,Aris Torlenhu,,2001-09-15,2001,Synthetic,ST,Striker,left,173,900000
+syn:436,Zeno Lennimez,,1995-06-27,1995,Synthetic,CB,Centre-back,left,171,8400000
+syn:437,Oren Vijaros,,1998-03-16,1998,Synthetic,FB,Full-back,left,184,1200000
+syn:438,Teo Fetalcou,,2000-07-04,2000,Synthetic,DM,Defensive midfielder,right,188,8100000
+syn:439,Rafa Lenfe,,1995-10-15,1995,Synthetic,CM,Central midfielder,right,175,10500000
+syn:440,Mateo Vihu,,1996-08-26,1996,Synthetic,CB,Centre-back,right,194,1100000
+syn:441,Joel Mezvimez,,1992-01-18,1992,Synthetic,ST,Striker,right,193,2100000
+syn:442,Bram Galros,,1994-10-09,1994,Synthetic,W,Winger,left,171,3800000
+syn:443,Emre Senzan,,1999-10-23,1999,Synthetic,DM,Defensive midfielder,left,194,3400000
+syn:444,Fabio Vivife,,1998-10-02,1998,Synthetic,AM,Attacking midfielder,right,171,600000
+syn:445,Sami Galjabel,,2002-03-19,2002,Synthetic,FB,Full-back,right,192,1300000
+syn:446,Fabio Rosvar,,2002-04-06,2002,Synthetic,CB,Centre-back,left,190,2300000
+syn:447,Davi Loros,,2001-09-03,2001,Synthetic,W,Winger,right,194,1300000
+syn:448,Mateo Lovi,,1997-11-14,1997,Synthetic,FB,Full-back,right,185,28400000
+syn:449,Cyro Siportal,,2000-05-04,2000,Synthetic,CB,Centre-back,right,182,1800000
+syn:450,Finn Galdri,,1999-05-26,1999,Synthetic,CM,Central midfielder,left,184,4700000
+syn:451,Bruno Talfe,,2007-06-07,2007,Synthetic,CM,Central midfielder,right,170,3200000
+syn:452,Fabio Varqui,,1994-03-19,1994,Synthetic,CM,Central midfielder,left,177,8700000
+syn:453,Nilo Galtorlen,,1997-10-08,1997,Synthetic,FB,Full-back,left,194,10700000
+syn:454,Joel Pordri,,1996-05-14,1996,Synthetic,CB,Centre-back,right,172,1400000
+syn:455,Alen Mezviqui,,1997-11-28,1997,Synthetic,CM,Central midfielder,left,191,2200000
+syn:456,Emre Viki,,1997-05-05,1997,Synthetic,CB,Centre-back,right,189,6500000
+syn:457,Goran Nigal,,1996-04-11,1996,Synthetic,FB,Full-back,left,190,1400000
+syn:458,Vito Rosan,,1995-09-19,1995,Synthetic,ST,Striker,left,180,12300000
+syn:459,Gael Kital,,2001-11-17,2001,Synthetic,FB,Full-back,left,193,1400000
+syn:460,Sami Quira,,1993-04-09,1993,Synthetic,CB,Centre-back,right,170,7000000
+syn:461,Dario Sensenros,,1998-04-09,1998,Synthetic,W,Winger,right,181,1900000
+syn:462,Gael Galsi,,1997-02-18,1997,Synthetic,CB,Centre-back,left,178,17900000
+syn:463,Joel Lendrilen,,1995-07-25,1995,Synthetic,GK,Goalkeeper,right,180,19300000
+syn:464,Mateo Hutortor,,1996-03-10,1996,Synthetic,CB,Centre-back,right,181,3000000
+syn:465,Ilan Quilenan,,1994-09-28,1994,Synthetic,CB,Centre-back,right,175,2200000
+syn:466,Joel Kifesen,,1997-12-28,1997,Synthetic,DM,Defensive midfielder,left,179,11900000
+syn:467,Joel Porkibel,,1992-07-01,1992,Synthetic,CB,Centre-back,right,171,1000000
+syn:468,Ugo Logallen,,1999-02-23,1999,Synthetic,FB,Full-back,left,176,1900000
+syn:469,Zeno Taldosi,,2000-12-09,2000,Synthetic,AM,Attacking midfielder,left,190,10000000
+syn:470,Mateo Zanjalen,,1994-03-12,1994,Synthetic,FB,Full-back,right,178,3400000
+syn:471,Emre Torhu,,1992-08-07,1992,Synthetic,DM,Defensive midfielder,left,176,1200000
+syn:472,Goran Momez,,2001-10-05,2001,Synthetic,CB,Centre-back,right,186,5200000
+syn:473,Kian Fevidri,,1998-11-26,1998,Synthetic,ST,Striker,right,184,7900000
+syn:474,Sami Torquidri,,2000-06-15,2000,Synthetic,FB,Full-back,left,183,2200000
+syn:475,Nilo Meznido,,1998-04-07,1998,Synthetic,GK,Goalkeeper,left,175,600000
+syn:476,Davi Modo,,2003-10-22,2003,Synthetic,FB,Full-back,right,183,8300000
+syn:477,Kian Talsiki,,1999-11-14,1999,Synthetic,CB,Centre-back,right,182,6400000
+syn:478,Aris Jaki,,1997-01-09,1997,Synthetic,W,Winger,left,172,4600000
+syn:479,Dario Lenni,,1998-01-07,1998,Synthetic,ST,Striker,left,175,2300000
+syn:480,Ilan Lenmezpor,,1998-08-28,1998,Synthetic,ST,Striker,left,188,15600000
+syn:481,Vito Porgaldo,,1997-03-06,1997,Synthetic,GK,Goalkeeper,left,188,700000
+syn:482,Davi Varsigal,,1993-01-10,1993,Synthetic,FB,Full-back,left,193,18200000
+syn:483,Cyro Varcou,,1999-01-28,1999,Synthetic,FB,Full-back,right,176,700000
+syn:484,Bram Monira,,1999-11-17,1999,Synthetic,AM,Attacking midfielder,left,184,11600000
+syn:485,Vito Varki,,1998-08-11,1998,Synthetic,DM,Defensive midfielder,right,182,5500000
+syn:486,Elian Viloki,,1995-03-07,1995,Synthetic,CM,Central midfielder,right,174,6200000
+syn:487,Elian Drisigal,,1998-02-22,1998,Synthetic,FB,Full-back,left,176,2100000
+syn:488,Cael Kian,,2001-05-16,2001,Synthetic,GK,Goalkeeper,left,192,8700000
+syn:489,Fabio Fesilo,,1994-11-13,1994,Synthetic,W,Winger,right,194,12100000
+syn:490,Yann Jadriki,,2001-06-01,2001,Synthetic,W,Winger,right,185,6100000
+syn:491,Alen Talbeldri,,1997-05-02,1997,Synthetic,AM,Attacking midfielder,right,173,4100000
+syn:492,Dario Fean,,1996-05-01,1996,Synthetic,DM,Defensive midfielder,left,180,32300000
+syn:493,Mateo Poran,,2003-12-13,2003,Synthetic,CM,Central midfielder,right,184,11500000
+syn:494,Hugo Jamo,,1998-04-25,1998,Synthetic,AM,Attacking midfielder,left,194,2100000
+syn:495,Teo Talporpor,,2005-08-01,2005,Synthetic,DM,Defensive midfielder,left,187,13100000
+syn:496,Goran Quiporsen,,2000-01-11,2000,Synthetic,CM,Central midfielder,left,172,1700000
+syn:497,Bram Torhuzan,,2004-03-12,2004,Synthetic,AM,Attacking midfielder,right,178,4600000
+syn:498,Gael Javilen,,1993-08-12,1993,Synthetic,CM,Central midfielder,left,191,300000
+syn:500,Hugo Porra,,1995-05-28,1995,Synthetic,AM,Attacking midfielder,left,188,4300000
+syn:501,Gael Talhutal,,1999-01-28,1999,Synthetic,FB,Full-back,right,192,5500000
+syn:502,Nilo Beldrife,,2000-09-01,2000,Synthetic,CM,Central midfielder,right,175,19900000
+syn:503,Mateo Simo,,1999-11-22,1999,Synthetic,CM,Central midfielder,left,173,30300000
+syn:504,Teo Jakiqui,,1997-09-28,1997,Synthetic,CB,Centre-back,left,183,3900000
+syn:505,Zeno Cousen,,1997-01-05,1997,Synthetic,CB,Centre-back,left,187,6000000
+syn:506,Oren Nicoura,,1994-03-12,1994,Synthetic,ST,Striker,right,188,9800000
+syn:508,Zeno Quimoros,,1997-08-17,1997,Synthetic,DM,Defensive midfielder,right,173,5900000
+syn:509,Alen Varlen,,1996-06-08,1996,Synthetic,CB,Centre-back,right,174,5000000
+syn:510,Dario Nidrilo,,1998-12-09,1998,Synthetic,AM,Attacking midfielder,left,186,2400000
+syn:511,Rafa Doporsi,,1999-09-13,1999,Synthetic,GK,Goalkeeper,left,181,1600000
+syn:512,Joel Rossi,,1999-07-05,1999,Synthetic,AM,Attacking midfielder,right,176,14100000
+syn:514,Elian Huros,,1998-08-25,1998,Synthetic,AM,Attacking midfielder,right,193,4800000
+syn:515,Joel Roshudo,,2004-12-06,2004,Synthetic,FB,Full-back,right,179,1100000
+syn:517,Luca Sencou,,2001-10-16,2001,Synthetic,GK,Goalkeeper,right,181,3900000
+syn:518,Sami Nizan,,2003-07-03,2003,Synthetic,CM,Central midfielder,right,192,9400000
+syn:519,Fabio Mohu,,1996-04-02,1996,Synthetic,CB,Centre-back,right,176,800000
+syn:520,Gael Nivi,,1993-10-11,1993,Synthetic,ST,Striker,right,190,1500000
+syn:521,Aris Varhuvi,,1997-09-13,1997,Synthetic,CM,Central midfielder,right,191,10200000
+syn:523,Mateo Senfe,,2000-04-21,2000,Synthetic,CM,Central midfielder,left,170,2600000
+syn:525,Mateo Mezlovar,,1997-12-03,1997,Synthetic,W,Winger,right,178,2200000
+syn:526,Fabio Lobelsen,,1994-08-20,1994,Synthetic,CM,Central midfielder,right,187,1000000
+syn:527,Yann Kian,,1993-10-19,1993,Synthetic,DM,Defensive midfielder,left,179,2500000
+syn:528,Joel Talfe,,1996-01-19,1996,Synthetic,CM,Central midfielder,right,194,3700000
+syn:529,Kian Porjamo,,1999-09-24,1999,Synthetic,CB,Centre-back,right,179,1800000
+syn:530,Goran Porcou,,2001-01-24,2001,Synthetic,CM,Central midfielder,left,170,2300000
+syn:532,Rafa Mezki,,1996-08-02,1996,Synthetic,CB,Centre-back,right,194,5800000
+syn:533,Cael Senloan,,1993-03-24,1993,Synthetic,FB,Full-back,right,174,6100000
+syn:534,Finn Modricou,,1993-07-06,1993,Synthetic,CB,Centre-back,left,192,2800000
+syn:535,Davi Galbelni,,1997-01-11,1997,Synthetic,AM,Attacking midfielder,right,177,3500000
+syn:536,Teo Couzantor,,1998-04-14,1998,Synthetic,ST,Striker,left,181,500000
+syn:537,Gael Senloni,,1999-07-11,1999,Synthetic,CM,Central midfielder,left,176,7500000
+syn:538,Yann Sengalan,,1997-02-09,1997,Synthetic,W,Winger,right,183,900000
+syn:539,Sami Vilo,,1997-05-17,1997,Synthetic,CB,Centre-back,left,181,2000000
+syn:540,Nilo Coudri,,1996-04-05,1996,Synthetic,ST,Striker,right,183,6200000
+syn:541,Cyro Anqui,,2001-03-06,2001,Synthetic,FB,Full-back,left,174,6000000
+syn:542,Fabio Ratortal,,1993-12-03,1993,Synthetic,CM,Central midfielder,right,194,1600000
+syn:543,Hugo Sihu,,1994-05-06,1994,Synthetic,W,Winger,right,193,1400000
+syn:544,Dario Torjaki,,1999-01-02,1999,Synthetic,W,Winger,right,190,58800000
+syn:545,Yann Fequigal,,1992-03-10,1992,Synthetic,CM,Central midfielder,right,180,10600000
+syn:546,Nilo Andri,,1997-02-22,1997,Synthetic,AM,Attacking midfielder,left,178,800000
+syn:547,Zeno Galvi,,2001-02-28,2001,Synthetic,ST,Striker,left,175,1800000
+syn:548,Alen Quital,,1998-09-20,1998,Synthetic,CM,Central midfielder,right,188,10100000
+syn:549,Cael Dricou,,1996-01-11,1996,Synthetic,AM,Attacking midfielder,left,180,800000
+syn:550,Dario Vardo,,1996-02-07,1996,Synthetic,AM,Attacking midfielder,left,173,24600000
+syn:551,Bram Anlohu,,2003-03-18,2003,Synthetic,CB,Centre-back,right,170,2900000
+syn:552,Goran Zancouhu,,1998-01-25,1998,Synthetic,AM,Attacking midfielder,right,171,2500000
+syn:553,Joel Porvar,,2000-09-17,2000,Synthetic,GK,Goalkeeper,right,186,19500000
+syn:554,Vito Galzan,,1997-08-03,1997,Synthetic,DM,Defensive midfielder,right,187,1900000
+syn:555,Fabio Driros,,1992-04-23,1992,Synthetic,CM,Central midfielder,right,183,2400000
+syn:556,Rafa Belki,,1997-09-20,1997,Synthetic,FB,Full-back,right,176,4300000
+syn:557,Elian Quidozan,,1998-01-15,1998,Synthetic,GK,Goalkeeper,left,181,4000000
+syn:558,Nilo Femosen,,1996-10-27,1996,Synthetic,FB,Full-back,right,174,11300000
+syn:559,Emre Dritor,,2000-09-08,2000,Synthetic,CM,Central midfielder,left,180,8700000
+syn:560,Mateo Vikizan,,1995-11-06,1995,Synthetic,W,Winger,left,190,1800000
+syn:561,Bram Doki,,1997-07-28,1997,Synthetic,AM,Attacking midfielder,right,188,13700000
+syn:562,Bram Movivar,,1994-12-01,1994,Synthetic,GK,Goalkeeper,right,182,1400000
+syn:563,Finn Molengal,,1994-04-23,1994,Synthetic,ST,Striker,right,186,4300000
+syn:564,Elian Galmezlen,,1996-12-17,1996,Synthetic,FB,Full-back,left,175,1300000
+syn:565,Cyro Nihulo,,1998-01-13,1998,Synthetic,ST,Striker,right,192,7800000
+syn:566,Gael Belcou,,1997-03-17,1997,Synthetic,CB,Centre-back,left,193,1500000
+syn:567,Mateo Losimez,,1997-05-23,1997,Synthetic,CB,Centre-back,left,172,8100000
+syn:568,Luca Hufe,,2002-06-02,2002,Synthetic,CB,Centre-back,left,192,2300000
+syn:569,Yann Belzanros,,1995-03-06,1995,Synthetic,GK,Goalkeeper,left,194,3100000
+syn:570,Ilan Monital,,1998-07-10,1998,Synthetic,W,Winger,right,172,2400000
+syn:571,Teo Torfe,,1997-10-24,1997,Synthetic,GK,Goalkeeper,right,172,2500000
+syn:572,Kian Senlenqui,,1999-11-24,1999,Synthetic,W,Winger,left,189,1600000
+syn:573,Nilo Varbel,,1995-10-21,1995,Synthetic,AM,Attacking midfielder,right,188,10300000
+syn:574,Rafa Ananfe,,1999-04-07,1999,Synthetic,CM,Central midfielder,left,174,7000000
+syn:575,Aris Doki,,1998-06-05,1998,Synthetic,CM,Central midfielder,left,182,2500000
+syn:576,Elian Vilogal,,2003-06-08,2003,Synthetic,CM,Central midfielder,right,188,7900000
+syn:577,Luca Anan,,1997-06-10,1997,Synthetic,CB,Centre-back,right,179,19200000
+syn:578,Ugo Lotor,,1998-12-01,1998,Synthetic,GK,Goalkeeper,right,190,2000000
+syn:579,Yann Loloros,,1998-08-13,1998,Synthetic,CB,Centre-back,right,186,4800000
+syn:580,Joel Dodopor,,1994-05-06,1994,Synthetic,CB,Centre-back,left,190,700000
+syn:581,Oren Lovi,,2004-10-24,2004,Synthetic,DM,Defensive midfielder,left,173,3100000
+syn:582,Oren Rosros,,1997-04-06,1997,Synthetic,CB,Centre-back,right,174,11500000
+syn:583,Pavel Mezlohu,,1997-02-17,1997,Synthetic,CB,Centre-back,left,172,2300000
+syn:584,Yann Quiqui,,1994-01-10,1994,Synthetic,CM,Central midfielder,left,171,800000
+syn:585,Joel Huan,,2000-03-22,2000,Synthetic,FB,Full-back,left,189,10900000
+syn:586,Sami Lomo,,1995-07-13,1995,Synthetic,DM,Defensive midfielder,right,183,1500000
+syn:587,Oren Fepor,,1998-09-06,1998,Synthetic,CB,Centre-back,left,187,900000
+syn:588,Bruno Lenja,,2002-06-02,2002,Synthetic,CM,Central midfielder,right,188,1300000
+syn:589,Gael Vija,,1993-08-20,1993,Synthetic,CB,Centre-back,left,184,11900000
+syn:590,Bruno Porjasen,,1995-01-27,1995,Synthetic,DM,Defensive midfielder,right,171,1000000
+syn:591,Mateo Sijaan,,1996-01-27,1996,Synthetic,CM,Central midfielder,left,178,3700000
+syn:592,Finn Lonido,,2003-12-08,2003,Synthetic,ST,Striker,right,186,3400000
+syn:593,Cyro Nigal,,1998-06-01,1998,Synthetic,CB,Centre-back,left,183,3700000
+syn:594,Oren Mezpor,,1997-03-05,1997,Synthetic,FB,Full-back,left,170,3600000
+syn:595,Rafa Kisenpor,,1998-01-11,1998,Synthetic,DM,Defensive midfielder,left,193,3700000
+syn:596,Zeno Varsi,,2000-02-17,2000,Synthetic,ST,Striker,left,189,800000
+syn:597,Alen Pordrihu,,2003-10-03,2003,Synthetic,CM,Central midfielder,right,172,2100000
+syn:598,Bruno Belmez,,1996-08-21,1996,Synthetic,CM,Central midfielder,left,191,7400000
+syn:599,Finn Varlo,,1996-04-09,1996,Synthetic,CB,Centre-back,right,170,12000000
+syn:600,Ugo Nivar,,1998-07-19,1998,Synthetic,ST,Striker,left,188,8700000
+syn:601,Zeno Huvar,,1999-07-16,1999,Synthetic,ST,Striker,left,181,4200000
+syn:602,Pavel Porporvi,,1999-10-13,1999,Synthetic,CM,Central midfielder,right,194,13200000
+syn:603,Rafa Jasen,,2004-10-26,2004,Synthetic,DM,Defensive midfielder,left,185,7300000
+syn:604,Aris Mokiros,,2000-02-14,2000,Synthetic,FB,Full-back,left,179,2200000
+syn:605,Nilo Kitorlo,,2001-05-28,2001,Synthetic,ST,Striker,right,194,9700000
+syn:606,Ugo Roscoudri,,1993-09-20,1993,Synthetic,FB,Full-back,left,176,1300000
+syn:607,Bram Zandodo,,2001-03-17,2001,Synthetic,CB,Centre-back,left,184,24900000
+syn:608,Hugo Nisi,,1998-06-24,1998,Synthetic,W,Winger,right,170,4300000
+syn:609,Rafa Simezqui,,1995-03-14,1995,Synthetic,GK,Goalkeeper,left,175,1200000
+syn:610,Hugo Lodobel,,2004-08-01,2004,Synthetic,FB,Full-back,right,189,7500000
+syn:611,Fabio Porvarvar,,1997-02-24,1997,Synthetic,AM,Attacking midfielder,left,187,5800000
+syn:612,Yann Fevartal,,1997-05-01,1997,Synthetic,W,Winger,right,177,2500000
+syn:613,Pavel Tallomo,,1997-06-17,1997,Synthetic,ST,Striker,right,188,1500000
+syn:614,Ilan Fetor,,1998-03-08,1998,Synthetic,W,Winger,right,185,800000
+syn:615,Gael Rarosmez,,1995-05-28,1995,Synthetic,CB,Centre-back,left,187,2500000
+syn:616,Vito Sija,,2001-12-01,2001,Synthetic,CM,Central midfielder,right,173,4500000
+syn:617,Elian Vizanzan,,1997-03-18,1997,Synthetic,ST,Striker,right,189,1700000
+syn:618,Elian Drihugal,,2003-03-19,2003,Synthetic,CM,Central midfielder,right,179,6800000
+syn:619,Gael Quipor,,2005-11-22,2005,Synthetic,ST,Striker,left,178,4300000
+syn:620,Cael Porloan,,1994-10-12,1994,Synthetic,W,Winger,left,192,5300000
+syn:621,Ilan Femo,,1997-04-16,1997,Synthetic,AM,Attacking midfielder,right,181,7900000
+syn:622,Rafa Dribelan,,1992-09-16,1992,Synthetic,CB,Centre-back,right,177,1900000
+syn:623,Zeno Varhulen,,2002-04-12,2002,Synthetic,DM,Defensive midfielder,left,191,8500000
+syn:624,Cael Nipor,,2005-01-14,2005,Synthetic,DM,Defensive midfielder,right,175,2300000
+syn:625,Kian Visisi,,2001-10-25,2001,Synthetic,CB,Centre-back,left,179,6600000
+syn:626,Davi Virosvar,,1996-11-24,1996,Synthetic,FB,Full-back,right,188,4000000
+syn:627,Sami Rostorlo,,1996-05-22,1996,Synthetic,CM,Central midfielder,left,190,1400000
+syn:628,Joel Kitor,,1997-08-06,1997,Synthetic,AM,Attacking midfielder,left,175,2200000
+syn:629,Bram Porvija,,2000-06-12,2000,Synthetic,CM,Central midfielder,right,181,4400000
+syn:630,Nilo Porrafe,,1999-01-17,1999,Synthetic,FB,Full-back,right,175,2100000
+syn:631,Rafa Mezdrihu,,1997-06-05,1997,Synthetic,CB,Centre-back,left,183,5800000
+syn:632,Mateo Vihu,,1997-05-08,1997,Synthetic,ST,Striker,left,191,3400000
+syn:633,Sami Beldogal,,1997-11-01,1997,Synthetic,ST,Striker,right,184,2100000
+syn:634,Aris Mopor,,1997-03-02,1997,Synthetic,ST,Striker,left,194,2900000
+syn:635,Vito Porlen,,1994-11-25,1994,Synthetic,AM,Attacking midfielder,right,190,16700000
+syn:636,Gael Huvi,,2002-08-09,2002,Synthetic,W,Winger,left,173,2900000
+syn:637,Ilan Quihuvi,,1997-08-16,1997,Synthetic,DM,Defensive midfielder,right,184,3700000
+syn:638,Emre Sisen,,1992-04-01,1992,Synthetic,FB,Full-back,right,182,700000
+syn:639,Finn Jaqui,,2001-10-05,2001,Synthetic,CB,Centre-back,left,188,1200000
+syn:640,Zeno Galvi,,1996-09-22,1996,Synthetic,FB,Full-back,left,188,3700000
+syn:641,Pavel Fesenzan,,1998-11-11,1998,Synthetic,GK,Goalkeeper,right,187,4300000
+syn:642,Mateo Mezmezbel,,1997-04-10,1997,Synthetic,FB,Full-back,right,173,14000000
+syn:643,Nilo Beldrivi,,2003-11-11,2003,Synthetic,FB,Full-back,left,194,5300000
+syn:644,Kian Jatalfe,,1993-11-23,1993,Synthetic,ST,Striker,left,178,1400000
+syn:645,Emre Galroslen,,1994-10-04,1994,Synthetic,GK,Goalkeeper,left,187,13500000
+syn:646,Mateo Zantorhu,,2000-03-14,2000,Synthetic,W,Winger,right,180,4500000
+syn:647,Hugo Torlo,,1997-04-04,1997,Synthetic,FB,Full-back,right,186,2600000
+syn:648,Elian Belmeztor,,1998-12-20,1998,Synthetic,AM,Attacking midfielder,left,186,2600000
+syn:649,Rafa Fedri,,1995-03-19,1995,Synthetic,CB,Centre-back,left,178,2000000
+syn:650,Oren Zanhu,,1996-12-28,1996,Synthetic,DM,Defensive midfielder,right,177,6200000
+syn:651,Dario Mezkipor,,1996-01-05,1996,Synthetic,GK,Goalkeeper,right,170,1500000
+syn:652,Gael Zanmomo,,2002-11-11,2002,Synthetic,ST,Striker,left,190,10900000
+syn:653,Bram Zanvi,,1998-10-15,1998,Synthetic,W,Winger,left,187,4500000
+syn:654,Sami Viquisi,,1995-02-24,1995,Synthetic,AM,Attacking midfielder,left,179,11900000
+syn:655,Davi Quijazan,,1996-11-19,1996,Synthetic,ST,Striker,right,171,2200000
+syn:656,Emre Galanki,,1995-06-14,1995,Synthetic,AM,Attacking midfielder,left,183,4000000
+syn:657,Pavel Senmo,,2005-11-27,2005,Synthetic,ST,Striker,right,181,4400000
+syn:658,Yann Zantor,,1994-03-09,1994,Synthetic,CB,Centre-back,right,185,3500000
+syn:659,Rafa Mezpor,,1999-02-25,1999,Synthetic,CB,Centre-back,right,183,2100000
+syn:660,Gael Varlopor,,2000-08-28,2000,Synthetic,FB,Full-back,right,185,12700000
+syn:661,Cael Nilenra,,1997-11-26,1997,Synthetic,ST,Striker,left,175,1800000
+syn:662,Luca Ando,,1995-08-03,1995,Synthetic,CB,Centre-back,right,182,2100000
+syn:663,Goran Lentalki,,1998-10-20,1998,Synthetic,AM,Attacking midfielder,right,171,900000
+syn:664,Fabio Raros,,1994-09-12,1994,Synthetic,CM,Central midfielder,left,183,6700000
+syn:665,Fabio Lennipor,,1998-03-04,1998,Synthetic,CB,Centre-back,right,175,8900000
+syn:666,Gael Nilo,,1998-10-25,1998,Synthetic,AM,Attacking midfielder,right,191,2900000
+syn:667,Ilan Anzan,,1997-01-05,1997,Synthetic,W,Winger,left,190,1000000
+syn:668,Joel Drini,,1994-06-21,1994,Synthetic,AM,Attacking midfielder,left,194,1100000
+syn:669,Hugo Zancou,,1993-08-16,1993,Synthetic,AM,Attacking midfielder,right,187,13300000
+syn:670,Alen Dridri,,1996-06-14,1996,Synthetic,CB,Centre-back,right,174,1900000
+syn:671,Zeno Movira,,1997-01-02,1997,Synthetic,CM,Central midfielder,right,193,4100000
+syn:672,Pavel Galki,,1993-10-23,1993,Synthetic,GK,Goalkeeper,right,172,700000
+syn:673,Ilan Sensen,,1996-09-02,1996,Synthetic,FB,Full-back,left,188,2900000
+syn:674,Hugo Rosgalhu,,1994-06-06,1994,Synthetic,ST,Striker,left,193,6700000
+syn:675,Teo Quimo,,1998-12-14,1998,Synthetic,ST,Striker,left,177,23900000
+syn:676,Sami Motal,,1997-04-03,1997,Synthetic,FB,Full-back,left,193,3600000
+syn:677,Kian Couki,,2001-04-07,2001,Synthetic,W,Winger,right,184,3000000
+syn:678,Luca Moan,,2000-01-16,2000,Synthetic,DM,Defensive midfielder,left,187,500000
+syn:679,Joel Moquigal,,1994-08-17,1994,Synthetic,FB,Full-back,right,176,2900000
+syn:680,Bram Silomez,,1993-02-10,1993,Synthetic,AM,Attacking midfielder,right,174,1700000
+syn:681,Ilan Hutor,,2003-12-27,2003,Synthetic,W,Winger,right,191,800000
+syn:682,Gael Rapor,,1994-12-18,1994,Synthetic,AM,Attacking midfielder,right,190,2000000
+syn:683,Ilan Lental,,1994-12-17,1994,Synthetic,CM,Central midfielder,left,184,4600000
+syn:684,Bram Porja,,1999-08-01,1999,Synthetic,DM,Defensive midfielder,left,180,7000000
+syn:685,Bruno Belbelsi,,1996-04-06,1996,Synthetic,FB,Full-back,left,182,14300000
+syn:686,Aris Vital,,2000-02-02,2000,Synthetic,CB,Centre-back,left,191,11800000
+syn:687,Goran Anmo,,1996-12-12,1996,Synthetic,CM,Central midfielder,right,185,5200000
+syn:688,Luca Hucou,,1995-02-14,1995,Synthetic,FB,Full-back,left,189,6100000
+syn:690,Elian Senlenbel,,1996-07-13,1996,Synthetic,FB,Full-back,left,188,42500000
+syn:691,Dario Nidri,,1999-09-14,1999,Synthetic,AM,Attacking midfielder,right,185,17100000
+syn:692,Dario Belvar,,1996-07-27,1996,Synthetic,DM,Defensive midfielder,left,176,8200000
+syn:693,Hugo Rosdriros,,1996-02-21,1996,Synthetic,AM,Attacking midfielder,right,179,14300000
+syn:694,Sami Couhu,,1994-09-12,1994,Synthetic,CB,Centre-back,right,171,3800000
+syn:695,Ugo Quidosi,,1998-02-19,1998,Synthetic,AM,Attacking midfielder,left,188,3700000
+syn:696,Elian Lentalmez,,1996-03-06,1996,Synthetic,ST,Striker,left,180,9900000
+syn:697,Goran Loja,,1994-05-09,1994,Synthetic,CM,Central midfielder,left,172,2200000
+syn:698,Cyro Quijahu,,1998-10-05,1998,Synthetic,AM,Attacking midfielder,left,188,2400000
+syn:699,Emre Zanvar,,1993-02-26,1993,Synthetic,W,Winger,left,187,2600000
+syn:700,Alen Kidovi,,1995-06-05,1995,Synthetic,AM,Attacking midfielder,left,188,9200000
+syn:701,Finn Jaan,,1993-01-21,1993,Synthetic,W,Winger,left,176,17000000
+syn:702,Mateo Porpor,,2002-05-05,2002,Synthetic,CB,Centre-back,right,185,1400000
+syn:703,Sami Dofe,,1999-09-21,1999,Synthetic,CB,Centre-back,right,178,1100000
+syn:704,Oren Lenvar,,1998-07-11,1998,Synthetic,ST,Striker,right,170,8100000
+syn:706,Fabio Anhuja,,2000-01-28,2000,Synthetic,CB,Centre-back,left,179,8000000
+syn:707,Emre Quisimo,,1995-05-10,1995,Synthetic,CB,Centre-back,left,185,3900000
+syn:708,Ugo Senlen,,1999-02-10,1999,Synthetic,CB,Centre-back,left,186,4400000
+syn:709,Vito Zanvilen,,2003-11-28,2003,Synthetic,CM,Central midfielder,right,174,6500000
+syn:710,Ugo Molen,,1996-07-23,1996,Synthetic,ST,Striker,left,193,4200000
+syn:711,Luca Torhumo,,2000-08-12,2000,Synthetic,GK,Goalkeeper,left,174,1700000
+syn:712,Ugo Kividri,,1998-09-13,1998,Synthetic,CM,Central midfielder,right,183,2000000
+syn:713,Cael Torfebel,,2002-12-13,2002,Synthetic,W,Winger,left,194,3700000
+syn:714,Dario Huzan,,1994-07-27,1994,Synthetic,CM,Central midfielder,left,192,1900000
+syn:715,Rafa Loquiqui,,2002-03-18,2002,Synthetic,CB,Centre-back,right,179,12600000
+syn:716,Teo Talgalvar,,1999-04-11,1999,Synthetic,AM,Attacking midfielder,left,173,21500000
+syn:717,Emre Jalenni,,1999-01-13,1999,Synthetic,GK,Goalkeeper,left,188,6800000
+syn:718,Ugo Dotalsen,,1996-09-28,1996,Synthetic,FB,Full-back,left,178,4500000
+syn:719,Gael Zanlendri,,2004-07-03,2004,Synthetic,ST,Striker,left,190,800000
+syn:720,Teo Nibelan,,1999-08-14,1999,Synthetic,W,Winger,left,189,1400000
+syn:721,Goran Kisi,,1996-10-16,1996,Synthetic,ST,Striker,right,179,1100000
+syn:722,Fabio Varsen,,2001-04-09,2001,Synthetic,DM,Defensive midfielder,right,183,10800000
+syn:723,Joel Sivi,,1995-02-08,1995,Synthetic,FB,Full-back,right,186,3300000
+syn:724,Ilan Torkija,,2003-05-15,2003,Synthetic,AM,Attacking midfielder,left,181,2400000
+syn:725,Hugo Anra,,1999-11-17,1999,Synthetic,ST,Striker,right,194,3000000
+syn:726,Davi Meznija,,1994-03-18,1994,Synthetic,GK,Goalkeeper,left,171,2500000
+syn:727,Alen Lomez,,1996-05-24,1996,Synthetic,GK,Goalkeeper,left,170,3000000
+syn:728,Nilo Vardrisen,,1997-10-01,1997,Synthetic,DM,Defensive midfielder,right,188,1500000
+syn:729,Alen Torcouhu,,1996-05-22,1996,Synthetic,CM,Central midfielder,left,181,4500000
+syn:730,Nilo Coutorhu,,1994-07-02,1994,Synthetic,FB,Full-back,left,172,6100000
+syn:731,Sami Galpor,,1994-06-02,1994,Synthetic,CM,Central midfielder,left,191,2000000
+syn:732,Rafa Lencou,,1994-01-06,1994,Synthetic,CM,Central midfielder,right,172,5600000
+syn:733,Nilo Belquitor,,1998-02-06,1998,Synthetic,ST,Striker,left,171,1800000
+syn:734,Oren Anzangal,,2002-04-02,2002,Synthetic,DM,Defensive midfielder,right,184,5000000
+syn:735,Finn Drigaltal,,1997-10-03,1997,Synthetic,CB,Centre-back,right,191,3400000
+syn:736,Gael Kiquipor,,2003-07-13,2003,Synthetic,W,Winger,left,177,4800000
+syn:737,Ilan Couros,,2006-03-08,2006,Synthetic,CB,Centre-back,right,193,4300000
+syn:739,Teo Anvar,,1997-10-25,1997,Synthetic,ST,Striker,left,185,3000000
+syn:740,Ilan Huzan,,1997-12-18,1997,Synthetic,ST,Striker,left,194,2600000
+syn:741,Goran Fevihu,,1997-11-21,1997,Synthetic,AM,Attacking midfielder,left,194,800000
+syn:742,Cael Lenvar,,2003-12-01,2003,Synthetic,W,Winger,right,176,14900000
+syn:743,Davi Rossivi,,1999-11-11,1999,Synthetic,GK,Goalkeeper,right,172,3400000
+syn:744,Mateo Couvipor,,1997-06-27,1997,Synthetic,ST,Striker,left,170,3800000
+syn:745,Emre Huki,,2000-12-20,2000,Synthetic,AM,Attacking midfielder,left,177,800000
+syn:746,Emre Ramezzan,,1994-08-02,1994,Synthetic,CM,Central midfielder,left,188,700000
+syn:747,Oren Lobellen,,1997-10-13,1997,Synthetic,W,Winger,left,192,800000
+syn:748,Cyro Kija,,2002-09-20,2002,Synthetic,GK,Goalkeeper,left,186,2400000
+syn:749,Hugo Vife,,1993-03-13,1993,Synthetic,CM,Central midfielder,right,191,7000000
+syn:750,Rafa Drija,,1998-01-24,1998,Synthetic,CM,Central midfielder,left,189,18500000
+syn:751,Dario Vidrira,,1997-05-23,1997,Synthetic,GK,Goalkeeper,left,193,4300000
+syn:752,Joel Porki,,1997-04-10,1997,Synthetic,FB,Full-back,right,191,3600000
+syn:753,Emre Anki,,1992-01-04,1992,Synthetic,CB,Centre-back,right,173,6900000
+syn:754,Emre Zansenmez,,1996-11-21,1996,Synthetic,DM,Defensive midfielder,left,188,3500000
+syn:755,Emre Femosen,,1994-07-19,1994,Synthetic,CM,Central midfielder,left,190,7700000
+syn:756,Luca Drivi,,2003-08-27,2003,Synthetic,ST,Striker,left,194,17300000
+syn:757,Yann Anmez,,1999-06-10,1999,Synthetic,FB,Full-back,left,187,5000000
+syn:758,Emre Huqui,,2000-10-10,2000,Synthetic,CM,Central midfielder,left,184,15700000
+syn:759,Bram Dorosfe,,2002-08-10,2002,Synthetic,ST,Striker,right,185,5400000
+syn:760,Oren Anra,,1996-10-07,1996,Synthetic,FB,Full-back,right,185,22000000
+syn:761,Finn Momez,,1998-04-25,1998,Synthetic,CM,Central midfielder,left,176,3200000
+syn:762,Mateo Rani,,1994-07-22,1994,Synthetic,CM,Central midfielder,left,185,3600000
+syn:763,Bram Lenhu,,1995-06-20,1995,Synthetic,ST,Striker,left,188,3200000
+syn:764,Ilan Nizansen,,1998-06-22,1998,Synthetic,ST,Striker,left,171,6300000
+syn:765,Zeno Rosfetor,,1993-01-19,1993,Synthetic,GK,Goalkeeper,right,186,700000
+syn:766,Ugo Varan,,1999-07-15,1999,Synthetic,AM,Attacking midfielder,left,172,3300000
+syn:767,Gael Racoumo,,2002-11-13,2002,Synthetic,ST,Striker,left,185,1700000
+syn:768,Dario Drivar,,1995-05-20,1995,Synthetic,ST,Striker,left,184,11400000
+syn:769,Teo Mezgalni,,2005-12-01,2005,Synthetic,W,Winger,left,191,10200000
+syn:770,Ugo Mezsenlo,,1998-12-15,1998,Synthetic,CB,Centre-back,left,173,8600000
+syn:771,Luca Galvar,,1996-11-11,1996,Synthetic,FB,Full-back,right,184,1200000
+syn:772,Hugo Tortalbel,,1996-03-18,1996,Synthetic,AM,Attacking midfielder,left,173,1500000
+syn:773,Teo Doros,,1994-11-01,1994,Synthetic,ST,Striker,right,185,4000000
+syn:774,Teo Galnipor,,2000-08-11,2000,Synthetic,DM,Defensive midfielder,left,175,1800000
+syn:775,Nilo Anvilo,,2006-04-27,2006,Synthetic,ST,Striker,right,191,7400000
+syn:776,Ugo Lomora,,2003-06-26,2003,Synthetic,FB,Full-back,left,182,14600000
+syn:777,Luca Sisitor,,1994-03-26,1994,Synthetic,FB,Full-back,right,172,6600000
+syn:778,Fabio Nifequi,,1993-10-09,1993,Synthetic,CM,Central midfielder,left,171,1700000
+syn:779,Oren Lozan,,1993-01-13,1993,Synthetic,W,Winger,right,181,6500000
+syn:780,Joel Hufe,,1997-04-13,1997,Synthetic,FB,Full-back,left,173,4300000
+syn:781,Joel Lolotor,,1998-09-14,1998,Synthetic,ST,Striker,right,177,24800000
+syn:782,Finn Talsi,,1997-01-10,1997,Synthetic,W,Winger,right,186,7000000
+syn:783,Kian Anvar,,1997-12-19,1997,Synthetic,ST,Striker,left,194,1000000
+syn:784,Emre Talzanja,,1997-06-19,1997,Synthetic,CM,Central midfielder,right,194,40300000
+syn:785,Luca Kian,,1994-11-07,1994,Synthetic,CM,Central midfielder,left,181,24800000
+syn:786,Yann Kija,,1995-10-23,1995,Synthetic,CB,Centre-back,right,173,24700000
+syn:787,Dario Porzan,,2000-01-19,2000,Synthetic,FB,Full-back,left,193,700000
+syn:788,Dario Belporfe,,1996-07-13,1996,Synthetic,CM,Central midfielder,right,175,900000
+syn:789,Bruno Rosfe,,1997-02-12,1997,Synthetic,AM,Attacking midfielder,left,194,1100000
+syn:790,Vito Vicoudri,,1998-11-27,1998,Synthetic,FB,Full-back,right,188,2400000
+syn:791,Joel Senkija,,1994-09-03,1994,Synthetic,CM,Central midfielder,left,173,9000000
+syn:792,Pavel Mocou,,1999-09-08,1999,Synthetic,W,Winger,left,181,2100000
+syn:793,Gael Lenroslo,,1999-11-21,1999,Synthetic,ST,Striker,right,178,5900000
+syn:794,Luca Mobel,,2001-08-24,2001,Synthetic,AM,Attacking midfielder,right,173,3700000
+syn:795,Joel Lenvar,,1995-07-08,1995,Synthetic,FB,Full-back,right,191,5500000
+syn:796,Gael Nilenra,,1997-03-01,1997,Synthetic,CB,Centre-back,left,190,2800000
+syn:797,Aris Torzanpor,,2002-10-03,2002,Synthetic,FB,Full-back,left,172,20100000
+syn:798,Joel Porkital,,1996-04-04,1996,Synthetic,FB,Full-back,right,176,2800000
+syn:799,Joel Coulenlen,,1997-09-16,1997,Synthetic,CB,Centre-back,left,175,13300000
+syn:800,Bruno Movi,,1996-05-28,1996,Synthetic,FB,Full-back,right,184,1300000
+syn:801,Dario Movido,,1998-10-10,1998,Synthetic,DM,Defensive midfielder,left,174,2400000
+syn:802,Hugo Galnitor,,2001-02-11,2001,Synthetic,DM,Defensive midfielder,left,176,4300000
+syn:803,Aris Galroski,,2001-02-04,2001,Synthetic,FB,Full-back,right,189,26700000
+syn:804,Mateo Ansenvi,,1996-09-14,1996,Synthetic,FB,Full-back,left,192,45600000
+syn:805,Gael Vianvi,,2000-11-12,2000,Synthetic,W,Winger,right,180,700000
+syn:806,Nilo Drisipor,,1992-12-02,1992,Synthetic,GK,Goalkeeper,left,192,17100000
+syn:807,Bruno Mohuan,,1995-08-24,1995,Synthetic,ST,Striker,left,179,400000
+syn:808,Finn Hutal,,1994-08-18,1994,Synthetic,ST,Striker,left,189,1100000
+syn:809,Gael Dripor,,1997-02-08,1997,Synthetic,CB,Centre-back,left,184,1800000
+syn:810,Hugo Lovarni,,1999-04-02,1999,Synthetic,AM,Attacking midfielder,right,179,1300000
+syn:811,Luca Moros,,2001-10-04,2001,Synthetic,GK,Goalkeeper,left,178,7100000
+syn:812,Fabio Doni,,1998-01-19,1998,Synthetic,FB,Full-back,right,176,7100000
+syn:813,Kian Mohu,,2000-03-01,2000,Synthetic,DM,Defensive midfielder,left,181,14300000
+syn:814,Goran Belrosmo,,1994-09-02,1994,Synthetic,AM,Attacking midfielder,left,186,1600000
+syn:815,Alen Doja,,1996-12-03,1996,Synthetic,FB,Full-back,right,180,1500000
+syn:816,Bram Doki,,1998-04-26,1998,Synthetic,CM,Central midfielder,right,172,5300000
+syn:817,Alen Huros,,1994-06-18,1994,Synthetic,CB,Centre-back,left,178,20400000
+syn:818,Rafa Hutorzan,,1996-01-08,1996,Synthetic,W,Winger,left,172,3000000
+syn:819,Mateo Kimezja,,1996-05-09,1996,Synthetic,W,Winger,right,180,13700000
+syn:821,Alen Doja,,1996-03-02,1996,Synthetic,ST,Striker,right,182,5000000
+syn:822,Yann Raloki,,1996-12-02,1996,Synthetic,CB,Centre-back,right,173,6500000
+syn:823,Finn Dodri,,1998-11-03,1998,Synthetic,W,Winger,left,186,2300000
+syn:824,Ilan Varbel,,1998-11-10,1998,Synthetic,CM,Central midfielder,right,177,2700000
+syn:825,Davi Rossen,,1997-10-04,1997,Synthetic,AM,Attacking midfielder,right,182,19700000
+syn:826,Fabio Jamo,,1995-08-19,1995,Synthetic,DM,Defensive midfielder,right,192,9000000
+syn:827,Alen Beltaldo,,1999-08-06,1999,Synthetic,DM,Defensive midfielder,right,172,400000
+syn:829,Hugo Angal,,1994-08-02,1994,Synthetic,CM,Central midfielder,left,170,6500000
+syn:831,Vito Fetor,,2003-02-07,2003,Synthetic,CB,Centre-back,left,180,800000
+syn:832,Goran Zansi,,2001-02-18,2001,Synthetic,GK,Goalkeeper,left,184,20800000
+syn:833,Rafa Motorfe,,1998-02-07,1998,Synthetic,DM,Defensive midfielder,left,171,400000
+syn:834,Fabio Drisen,,2003-07-11,2003,Synthetic,FB,Full-back,left,173,25800000
+syn:835,Finn Jasi,,1992-07-22,1992,Synthetic,FB,Full-back,right,172,2500000
+syn:836,Alen Varcouki,,1995-12-23,1995,Synthetic,FB,Full-back,left,171,3400000
+syn:837,Joel Talgalsen,,1994-03-18,1994,Synthetic,FB,Full-back,right,171,5300000
+syn:838,Goran Porcoupor,,2002-12-06,2002,Synthetic,ST,Striker,right,191,7000000
+syn:839,Gael Torvi,,1998-10-17,1998,Synthetic,CB,Centre-back,left,187,1400000
+syn:840,Gael Drirosvar,,2003-10-20,2003,Synthetic,GK,Goalkeeper,right,187,4000000
+syn:841,Fabio Raquini,,1994-09-15,1994,Synthetic,ST,Striker,left,189,500000
+syn:842,Bruno Sitor,,1997-10-02,1997,Synthetic,ST,Striker,right,187,3400000
+syn:843,Sami Counimez,,1999-07-24,1999,Synthetic,CM,Central midfielder,right,172,11100000
+syn:844,Bruno Torcou,,1999-04-17,1999,Synthetic,CB,Centre-back,left,186,8000000
+syn:845,Vito Kihura,,1997-02-24,1997,Synthetic,CB,Centre-back,left,189,7900000
+syn:846,Goran Kimez,,1997-08-26,1997,Synthetic,AM,Attacking midfielder,right,178,1100000
+syn:847,Pavel Torpor,,2001-08-27,2001,Synthetic,ST,Striker,left,185,5800000
+syn:848,Joel Rani,,1998-02-26,1998,Synthetic,FB,Full-back,left,190,8200000
+syn:849,Nilo Galdo,,1998-02-05,1998,Synthetic,CM,Central midfielder,left,193,4700000
+syn:850,Oren Galzantor,,1998-08-03,1998,Synthetic,AM,Attacking midfielder,left,192,5000000
+syn:851,Alen Galmez,,1999-01-13,1999,Synthetic,DM,Defensive midfielder,left,193,6900000
+syn:852,Finn Coumezni,,2005-12-11,2005,Synthetic,CB,Centre-back,right,173,5700000
+syn:853,Alen Sini,,2000-12-09,2000,Synthetic,ST,Striker,right,170,4100000
+syn:854,Bram Sivi,,1993-08-25,1993,Synthetic,ST,Striker,left,190,800000
+syn:855,Luca Senzan,,1996-03-26,1996,Synthetic,AM,Attacking midfielder,left,192,5000000
+syn:856,Pavel Roshuros,,1994-10-10,1994,Synthetic,FB,Full-back,left,176,2600000
+syn:857,Bruno Taldri,,1997-12-19,1997,Synthetic,AM,Attacking midfielder,left,194,2200000
+syn:858,Luca Ankiros,,2000-01-15,2000,Synthetic,FB,Full-back,right,181,1600000
+syn:859,Yann Lengallen,,1998-08-28,1998,Synthetic,CB,Centre-back,right,178,2500000
+syn:860,Ugo Lenros,,2000-03-28,2000,Synthetic,ST,Striker,right,184,71200000
+syn:861,Bram Lensitor,,1996-04-22,1996,Synthetic,CB,Centre-back,left,175,3600000
+syn:862,Bram Senki,,1997-05-20,1997,Synthetic,CB,Centre-back,left,179,6400000
+syn:863,Aris Quimez,,1996-11-26,1996,Synthetic,DM,Defensive midfielder,left,193,13000000
+syn:864,Luca Porgal,,1993-08-28,1993,Synthetic,W,Winger,right,175,4600000
+syn:865,Fabio Kicou,,1995-01-20,1995,Synthetic,DM,Defensive midfielder,right,190,4300000
+syn:867,Nilo Visi,,2000-01-07,2000,Synthetic,CB,Centre-back,right,179,3700000
+syn:868,Gael Nital,,2000-11-19,2000,Synthetic,AM,Attacking midfielder,right,173,2300000
+syn:869,Vito Talpor,,1997-10-22,1997,Synthetic,CM,Central midfielder,left,176,4600000
+syn:870,Ilan Mogalhu,,1998-11-01,1998,Synthetic,CM,Central midfielder,left,187,1800000
+syn:871,Luca Rosros,,2000-04-16,2000,Synthetic,CM,Central midfielder,left,186,12300000
+syn:872,Hugo Nihu,,1998-01-06,1998,Synthetic,ST,Striker,left,184,1500000
+syn:874,Luca Doquigal,,2003-04-20,2003,Synthetic,AM,Attacking midfielder,left,193,9700000
+syn:875,Alen Counian,,2006-03-02,2006,Synthetic,ST,Striker,right,192,6600000
+syn:876,Ilan Drigal,,2001-11-18,2001,Synthetic,CM,Central midfielder,left,184,4400000
+syn:877,Dario Fequi,,1997-04-23,1997,Synthetic,CB,Centre-back,left,183,1700000
+syn:878,Joel Jaki,,1998-11-05,1998,Synthetic,FB,Full-back,right,182,1800000
+syn:879,Mateo Fezan,,1997-04-06,1997,Synthetic,CB,Centre-back,right,170,10200000
+syn:880,Yann Vivi,,1994-11-11,1994,Synthetic,GK,Goalkeeper,right,188,5600000
+syn:882,Pavel Dojaan,,2000-06-05,2000,Synthetic,FB,Full-back,left,178,1200000
+syn:883,Alen Jasiqui,,1995-04-24,1995,Synthetic,AM,Attacking midfielder,left,193,1600000
+syn:884,Sami Lenqui,,1995-05-02,1995,Synthetic,ST,Striker,right,178,4300000
+syn:885,Oren Raja,,2000-11-23,2000,Synthetic,CM,Central midfielder,right,170,2500000
+syn:886,Pavel Lenvar,,1998-04-25,1998,Synthetic,DM,Defensive midfielder,left,172,6700000
+syn:887,Emre Couanzan,,1995-12-26,1995,Synthetic,AM,Attacking midfielder,left,191,4300000
+syn:888,Aris Porpor,,1997-12-17,1997,Synthetic,CM,Central midfielder,right,178,5200000
+syn:889,Gael Anlo,,2005-06-11,2005,Synthetic,W,Winger,right,179,11600000
+syn:890,Fabio Quilotor,,1998-10-06,1998,Synthetic,ST,Striker,left,186,1500000
+syn:891,Ilan Sizan,,2004-06-20,2004,Synthetic,DM,Defensive midfielder,right,171,6200000
+syn:892,Sami Huvar,,1996-08-10,1996,Synthetic,W,Winger,left,170,4800000
+syn:893,Cyro Drivi,,1998-12-16,1998,Synthetic,CB,Centre-back,right,185,6000000
+syn:894,Oren Tordo,,1999-09-12,1999,Synthetic,ST,Striker,right,193,4000000
+syn:895,Sami Humolen,,1999-01-28,1999,Synthetic,ST,Striker,right,188,26200000
+syn:896,Rafa Nilen,,1992-08-10,1992,Synthetic,CM,Central midfielder,left,172,3900000
+syn:897,Ugo Lendovar,,2000-10-28,2000,Synthetic,GK,Goalkeeper,right,171,3600000
+syn:898,Ilan Lolenzan,,1997-05-10,1997,Synthetic,CM,Central midfielder,right,185,800000
+syn:899,Oren Raantal,,1995-08-14,1995,Synthetic,CM,Central midfielder,right,189,6200000
+syn:900,Finn Varfe,,1996-08-21,1996,Synthetic,AM,Attacking midfielder,right,179,16100000
+syn:901,Cael Kital,,1995-06-07,1995,Synthetic,CB,Centre-back,right,186,2000000
+syn:902,Bram Hudriros,,1997-08-11,1997,Synthetic,DM,Defensive midfielder,right,173,5000000
+syn:903,Rafa Fehu,,2000-06-09,2000,Synthetic,FB,Full-back,left,192,2600000
+syn:904,Pavel Rosdri,,2002-12-09,2002,Synthetic,DM,Defensive midfielder,left,189,19100000
+syn:905,Dario Drisisen,,1996-05-16,1996,Synthetic,AM,Attacking midfielder,right,184,600000
+syn:906,Elian Rani,,1998-11-03,1998,Synthetic,GK,Goalkeeper,left,181,2900000
+syn:907,Cyro Visen,,1995-01-17,1995,Synthetic,CB,Centre-back,left,174,2200000
+syn:908,Mateo Dozanmez,,1995-02-04,1995,Synthetic,GK,Goalkeeper,right,180,1900000
+syn:909,Davi Varnivar,,1994-07-11,1994,Synthetic,CB,Centre-back,left,192,2100000
+syn:910,Ugo Sido,,1999-08-18,1999,Synthetic,ST,Striker,left,188,1600000
+syn:911,Mateo Ralenlo,,2005-03-04,2005,Synthetic,W,Winger,right,178,9000000
+syn:912,Hugo Vibel,,2001-07-15,2001,Synthetic,GK,Goalkeeper,left,193,1300000
+syn:913,Pavel Sitalmo,,1996-12-16,1996,Synthetic,FB,Full-back,left,182,11900000
+syn:914,Vito Lenquiki,,1995-12-04,1995,Synthetic,DM,Defensive midfielder,right,178,5500000
+syn:915,Cyro Anvar,,1998-04-24,1998,Synthetic,W,Winger,right,185,2700000
+syn:916,Bram Belsenbel,,2006-11-02,2006,Synthetic,GK,Goalkeeper,left,179,3100000
+syn:917,Goran Nian,,1995-07-11,1995,Synthetic,CB,Centre-back,right,176,9000000
+syn:918,Goran Antor,,1996-09-08,1996,Synthetic,FB,Full-back,left,179,2300000
+syn:919,Zeno Kira,,1995-03-08,1995,Synthetic,AM,Attacking midfielder,right,191,1500000
+syn:920,Cyro Huhuvi,,1997-10-27,1997,Synthetic,CB,Centre-back,left,185,9500000
+syn:921,Alen Zanmez,,2002-11-24,2002,Synthetic,GK,Goalkeeper,right,183,2300000
+syn:922,Ilan Vivar,,1993-08-07,1993,Synthetic,CB,Centre-back,left,173,2700000
+syn:923,Emre Moradri,,1998-01-26,1998,Synthetic,GK,Goalkeeper,left,171,7200000
+syn:924,Teo Drilozan,,2000-05-05,2000,Synthetic,GK,Goalkeeper,right,183,1900000
+syn:925,Hugo Jalo,,1992-03-25,1992,Synthetic,ST,Striker,right,170,1200000
+syn:926,Ugo Porhu,,1997-07-02,1997,Synthetic,ST,Striker,right,192,16500000
+syn:927,Elian Antalqui,,2000-05-24,2000,Synthetic,AM,Attacking midfielder,left,180,5800000
+syn:928,Rafa Zanvimez,,1994-06-28,1994,Synthetic,W,Winger,right,191,9400000
+syn:929,Finn Varcoumo,,1994-06-14,1994,Synthetic,DM,Defensive midfielder,right,183,2300000
+syn:931,Elian Torfe,,2001-04-08,2001,Synthetic,CM,Central midfielder,left,187,4400000
+syn:932,Cyro Mozantal,,1996-01-16,1996,Synthetic,FB,Full-back,right,192,900000
+syn:933,Joel Talvi,,1997-08-04,1997,Synthetic,FB,Full-back,right,183,3800000
+syn:934,Yann Hudrizan,,1997-04-10,1997,Synthetic,CB,Centre-back,right,181,1800000
+syn:935,Luca Lenan,,2001-02-28,2001,Synthetic,FB,Full-back,right,175,1500000
+syn:936,Joel Drirosra,,1999-04-21,1999,Synthetic,ST,Striker,left,184,38500000
+syn:937,Kian Kital,,1995-12-03,1995,Synthetic,CM,Central midfielder,right,190,11300000
+syn:938,Vito Galzanja,,1995-02-03,1995,Synthetic,AM,Attacking midfielder,right,183,1800000
+syn:939,Cyro Sinizan,,1997-06-08,1997,Synthetic,CM,Central midfielder,right,184,81600000
+syn:940,Alen Drilo,,1995-09-07,1995,Synthetic,GK,Goalkeeper,right,193,500000
+syn:941,Dario Zananvar,,1997-09-12,1997,Synthetic,W,Winger,left,194,1500000
+syn:942,Oren Mezdovar,,1995-10-16,1995,Synthetic,FB,Full-back,left,182,5800000
+syn:943,Goran Rosrasi,,1997-01-17,1997,Synthetic,GK,Goalkeeper,left,180,2600000
+syn:944,Davi Varmo,,2004-02-05,2004,Synthetic,W,Winger,right,188,1000000
+syn:945,Hugo Belpor,,1997-06-07,1997,Synthetic,CB,Centre-back,right,171,2800000
+syn:946,Ilan Viporbel,,1997-11-11,1997,Synthetic,CM,Central midfielder,right,181,6000000
+syn:947,Elian Ravi,,2000-05-09,2000,Synthetic,FB,Full-back,right,179,2500000
+syn:948,Joel Rajavi,,2003-09-10,2003,Synthetic,GK,Goalkeeper,left,174,900000
+syn:949,Hugo Rosmo,,2005-06-25,2005,Synthetic,CB,Centre-back,left,191,7300000
+syn:950,Alen Rapor,,2002-08-15,2002,Synthetic,GK,Goalkeeper,left,180,1900000
+syn:951,Davi Zanmez,,2001-08-21,2001,Synthetic,ST,Striker,right,185,8200000
+syn:952,Zeno Anmez,,1995-11-10,1995,Synthetic,ST,Striker,left,180,5500000
+syn:953,Bruno Movarzan,,1998-05-25,1998,Synthetic,GK,Goalkeeper,right,189,7200000
+syn:954,Sami Belrospor,,1996-11-06,1996,Synthetic,DM,Defensive midfielder,right,189,4800000
+syn:955,Joel Zanporan,,2000-02-14,2000,Synthetic,ST,Striker,right,193,1600000
+syn:956,Bram Mezvisen,,1994-09-11,1994,Synthetic,FB,Full-back,right,170,1700000
+syn:957,Sami Coufelen,,1996-10-23,1996,Synthetic,DM,Defensive midfielder,right,178,2400000
+syn:958,Cael Mobelmo,,1998-02-18,1998,Synthetic,FB,Full-back,right,187,5300000
+syn:959,Cael Torlo,,1994-02-11,1994,Synthetic,AM,Attacking midfielder,left,190,3400000
+syn:960,Davi Couqui,,2000-09-10,2000,Synthetic,AM,Attacking midfielder,right,189,8700000
+syn:961,Cyro Febel,,1999-06-18,1999,Synthetic,CM,Central midfielder,right,178,1900000
+syn:962,Yann Torlenvi,,1995-07-22,1995,Synthetic,CM,Central midfielder,left,176,900000
+syn:963,Davi Varbeltal,,2004-02-28,2004,Synthetic,CB,Centre-back,right,194,7100000
+syn:964,Bruno Huan,,1998-12-28,1998,Synthetic,CM,Central midfielder,right,190,5300000
+syn:965,Sami Senvar,,1997-03-28,1997,Synthetic,AM,Attacking midfielder,left,176,10200000
+syn:966,Goran Fetor,,1997-08-16,1997,Synthetic,CM,Central midfielder,left,177,2900000
+syn:967,Bram Dohudri,,1997-03-18,1997,Synthetic,CM,Central midfielder,left,192,9100000
+syn:968,Aris Couporros,,2001-07-16,2001,Synthetic,DM,Defensive midfielder,left,181,3400000
+syn:969,Pavel Galcouros,,1994-08-05,1994,Synthetic,GK,Goalkeeper,right,174,300000
+syn:971,Oren Antor,,1998-03-03,1998,Synthetic,W,Winger,right,184,12300000
+syn:972,Finn Talra,,1993-02-23,1993,Synthetic,CB,Centre-back,left,185,1800000
+syn:973,Ilan Moni,,2001-02-22,2001,Synthetic,CM,Central midfielder,left,171,7400000
+syn:974,Sami Lenviros,,2001-08-05,2001,Synthetic,CB,Centre-back,right,177,1800000
+syn:975,Fabio Drijadri,,1997-02-18,1997,Synthetic,GK,Goalkeeper,left,171,2800000
+syn:976,Goran Dridridri,,1999-05-09,1999,Synthetic,W,Winger,right,171,5700000
+syn:977,Cyro Rosrosmo,,1999-12-26,1999,Synthetic,FB,Full-back,left,182,25800000
+syn:978,Cael Senlopor,,2005-03-05,2005,Synthetic,ST,Striker,left,185,3500000
+syn:979,Rafa Belcoulen,,1993-12-16,1993,Synthetic,AM,Attacking midfielder,right,171,5700000
+syn:980,Vito Vidricou,,1995-11-04,1995,Synthetic,FB,Full-back,left,191,1100000
+syn:981,Luca Nijalen,,2002-11-06,2002,Synthetic,CM,Central midfielder,right,180,1000000
+syn:982,Goran Torki,,2003-03-26,2003,Synthetic,CB,Centre-back,right,173,5800000
+syn:984,Dario Counian,,1995-08-25,1995,Synthetic,CB,Centre-back,right,182,7200000
+syn:985,Yann Femoros,,1995-03-15,1995,Synthetic,AM,Attacking midfielder,right,181,17900000
+syn:986,Fabio Fesen,,1996-02-13,1996,Synthetic,ST,Striker,left,191,700000
+syn:987,Vito Lentorra,,1998-03-23,1998,Synthetic,FB,Full-back,right,188,3300000
+syn:988,Zeno Lohulo,,2000-11-27,2000,Synthetic,ST,Striker,right,183,900000
+syn:989,Ilan Senvarhu,,1997-11-25,1997,Synthetic,FB,Full-back,right,192,12400000
+syn:990,Alen Coucouvi,,1998-07-15,1998,Synthetic,CM,Central midfielder,left,190,1800000
+syn:991,Ilan Sidri,,1999-04-13,1999,Synthetic,FB,Full-back,right,192,5300000
+syn:992,Yann Mezsensi,,1997-07-20,1997,Synthetic,CB,Centre-back,left,178,5100000
+syn:993,Ugo Raki,,1996-06-15,1996,Synthetic,FB,Full-back,right,181,2700000
+syn:995,Gael Belsenja,,1996-11-28,1996,Synthetic,CM,Central midfielder,right,172,8800000
+syn:996,Fabio Driporvi,,1998-06-25,1998,Synthetic,DM,Defensive midfielder,right,181,9000000
+syn:997,Pavel Lenmeztor,,2000-08-10,2000,Synthetic,FB,Full-back,right,193,2000000
+syn:998,Kian Femez,,2005-05-07,2005,Synthetic,FB,Full-back,left,191,5400000
+syn:999,Aris Galmomez,,1996-04-25,1996,Synthetic,GK,Goalkeeper,left,170,1900000
+syn:1000,Vito Dosen,,1999-06-13,1999,Synthetic,FB,Full-back,left,177,1100000
+syn:1001,Emre Porrosni,,2001-02-18,2001,Synthetic,CB,Centre-back,left,192,2200000
+syn:1002,Alen Sihulen,,1996-09-19,1996,Synthetic,CM,Central midfielder,left,182,5100000
+syn:1003,Cyro Silenzan,,1997-06-11,1997,Synthetic,CM,Central midfielder,right,183,5700000
+syn:1004,Fabio Anmez,,2004-07-12,2004,Synthetic,AM,Attacking midfielder,left,176,3700000
+syn:1005,Goran Porlen,,1994-04-01,1994,Synthetic,DM,Defensive midfielder,right,170,3500000
+syn:1006,Finn Varkira,,2003-09-01,2003,Synthetic,FB,Full-back,left,186,3600000
+syn:1007,Goran Lotalros,,1997-07-03,1997,Synthetic,W,Winger,right,192,9000000
+syn:1008,Yann Talzanki,,1997-06-13,1997,Synthetic,DM,Defensive midfielder,right,192,5300000
+syn:1009,Mateo Varsija,,1997-08-23,1997,Synthetic,FB,Full-back,right,170,1200000
+syn:1010,Teo Sendrimo,,1997-09-04,1997,Synthetic,W,Winger,right,177,2900000
+syn:1011,Gael Belmosi,,1996-06-04,1996,Synthetic,CB,Centre-back,right,186,6800000
+syn:1012,Emre Visizan,,2002-12-01,2002,Synthetic,DM,Defensive midfielder,right,178,2700000
+syn:1013,Davi Rabel,,2000-10-25,2000,Synthetic,AM,Attacking midfielder,left,191,1200000
+syn:1014,Davi Hutalsen,,2000-08-07,2000,Synthetic,CB,Centre-back,right,183,3200000
+syn:1015,Yann Taldo,,2000-08-23,2000,Synthetic,ST,Striker,right,187,2000000
+syn:1016,Bruno Quidri,,2000-01-13,2000,Synthetic,CM,Central midfielder,left,184,9800000
+syn:1017,Joel Anzan,,1997-12-26,1997,Synthetic,CB,Centre-back,right,177,21900000
+syn:1018,Mateo Zanpor,,2000-08-27,2000,Synthetic,FB,Full-back,left,181,1600000
+syn:1019,Cael Taldosi,,1996-09-26,1996,Synthetic,DM,Defensive midfielder,left,183,8700000
+syn:1020,Cyro Jaros,,1993-05-16,1993,Synthetic,FB,Full-back,right,170,3700000
+syn:1021,Luca Momotal,,1996-10-22,1996,Synthetic,W,Winger,right,173,1200000
+syn:1022,Oren Lohusi,,1996-11-03,1996,Synthetic,FB,Full-back,left,173,6300000
+syn:1023,Ugo Porlotor,,2000-10-28,2000,Synthetic,CB,Centre-back,right,188,2000000
+syn:1024,Mateo Drimez,,2000-06-18,2000,Synthetic,CM,Central midfielder,right,194,6100000
+syn:1025,Emre Galmez,,1993-09-09,1993,Synthetic,W,Winger,left,193,5000000
+syn:1026,Ugo Rosvi,,1998-11-20,1998,Synthetic,AM,Attacking midfielder,left,181,8300000
+syn:1027,Cael Meztorvar,,1996-04-05,1996,Synthetic,CB,Centre-back,left,187,6200000
+syn:1028,Dario Fecoumez,,1998-04-04,1998,Synthetic,DM,Defensive midfielder,right,177,3700000
+syn:1029,Cyro Sendo,,2005-07-08,2005,Synthetic,W,Winger,left,186,3300000
+syn:1030,Dario Coudrilo,,2004-07-16,2004,Synthetic,CM,Central midfielder,right,189,3000000
+syn:1031,Rafa Coutor,,1997-10-22,1997,Synthetic,CM,Central midfielder,left,183,2800000
+syn:1032,Gael Kihu,,1996-04-10,1996,Synthetic,CB,Centre-back,right,178,5600000
+syn:1033,Teo Talhu,,1997-09-28,1997,Synthetic,CB,Centre-back,left,194,600000
+syn:1034,Pavel Kimo,,1994-11-21,1994,Synthetic,CB,Centre-back,left,174,13400000
+syn:1035,Yann Movi,,1993-06-02,1993,Synthetic,GK,Goalkeeper,left,170,14100000
+syn:1036,Nilo Rajadri,,2001-12-03,2001,Synthetic,DM,Defensive midfielder,left,181,8200000
+syn:1037,Oren Mezlo,,1994-11-19,1994,Synthetic,W,Winger,left,174,3500000
+syn:1038,Kian Senros,,1998-03-12,1998,Synthetic,W,Winger,right,192,43600000
+syn:1039,Vito Galfe,,2001-03-14,2001,Synthetic,CB,Centre-back,right,184,600000
+syn:1040,Gael Anhugal,,2004-09-03,2004,Synthetic,CB,Centre-back,left,180,2400000
+syn:1041,Hugo Rosdoja,,1996-08-14,1996,Synthetic,CM,Central midfielder,left,190,47600000
+syn:1042,Finn Mezpor,,1999-04-28,1999,Synthetic,AM,Attacking midfielder,left,170,3100000
+syn:1043,Goran Jarosja,,1999-11-08,1999,Synthetic,W,Winger,left,179,1500000
+syn:1044,Teo Belvar,,1999-07-02,1999,Synthetic,CB,Centre-back,left,172,2900000
+syn:1045,Cyro Quizanfe,,1994-03-15,1994,Synthetic,CM,Central midfielder,left,180,4500000
+syn:1046,Kian Nigal,,1998-06-04,1998,Synthetic,CB,Centre-back,right,171,6500000
+syn:1047,Yann Roscouja,,1997-02-21,1997,Synthetic,CB,Centre-back,left,175,1700000
+syn:1048,Cael Driqui,,1994-01-23,1994,Synthetic,CB,Centre-back,left,193,700000
+syn:1049,Luca Siros,,1994-09-01,1994,Synthetic,FB,Full-back,right,180,6100000
+syn:1050,Gael Vibel,,2001-09-14,2001,Synthetic,GK,Goalkeeper,left,190,8000000
+syn:1051,Bruno Feni,,2001-01-03,2001,Synthetic,CB,Centre-back,right,178,19900000
+syn:1052,Luca Lodrivar,,1999-11-03,1999,Synthetic,CB,Centre-back,left,194,9000000
+syn:1053,Elian Anjaja,,2001-10-18,2001,Synthetic,CM,Central midfielder,right,175,5300000
+syn:1054,Teo Kian,,2004-08-08,2004,Synthetic,CM,Central midfielder,left,194,12500000
+syn:1055,Hugo Galpor,,2001-08-18,2001,Synthetic,AM,Attacking midfielder,left,191,6600000
+syn:1056,Goran Lomez,,1993-03-23,1993,Synthetic,CM,Central midfielder,left,176,3600000
+syn:1057,Luca Nibelja,,1995-12-01,1995,Synthetic,ST,Striker,right,190,6500000
+syn:1058,Mateo Coura,,1999-05-22,1999,Synthetic,CB,Centre-back,left,177,1900000
+syn:1059,Dario Hucougal,,1996-04-22,1996,Synthetic,GK,Goalkeeper,left,191,3900000
+syn:1060,Teo Couan,,1994-10-02,1994,Synthetic,W,Winger,right,177,1700000
+syn:1061,Bram Loki,,1995-03-16,1995,Synthetic,CB,Centre-back,right,182,19800000
+syn:1063,Finn Anra,,1997-01-19,1997,Synthetic,DM,Defensive midfielder,right,171,4100000
+syn:1064,Nilo Talra,,1997-12-25,1997,Synthetic,W,Winger,right,181,2500000
+syn:1065,Finn Vargal,,1996-12-06,1996,Synthetic,GK,Goalkeeper,right,177,2000000
+syn:1066,Sami Senkihu,,2003-10-13,2003,Synthetic,ST,Striker,right,181,3600000
+syn:1067,Cyro Fehu,,1999-04-28,1999,Synthetic,CB,Centre-back,right,175,17800000
+syn:1068,Luca Coulen,,1997-01-18,1997,Synthetic,FB,Full-back,right,177,7300000
+syn:1069,Yann Vira,,1992-09-16,1992,Synthetic,GK,Goalkeeper,left,175,2300000
+syn:1070,Cyro Lomofe,,1999-11-07,1999,Synthetic,FB,Full-back,right,173,10100000
+syn:1071,Rafa Beldriqui,,1992-10-16,1992,Synthetic,DM,Defensive midfielder,right,178,2300000
+syn:1072,Luca Lofe,,1996-04-19,1996,Synthetic,DM,Defensive midfielder,left,194,2100000
+syn:1073,Oren Galros,,1995-08-13,1995,Synthetic,DM,Defensive midfielder,right,194,3400000
+syn:1074,Teo Vija,,2003-10-20,2003,Synthetic,W,Winger,left,192,800000
+syn:1075,Hugo Zanzan,,1998-10-02,1998,Synthetic,FB,Full-back,left,176,7400000
+syn:1076,Bruno Kicou,,1996-11-13,1996,Synthetic,FB,Full-back,right,181,4000000
+syn:1077,Elian Couan,,1997-12-08,1997,Synthetic,DM,Defensive midfielder,right,192,800000
+syn:1078,Ugo Losenki,,2001-05-05,2001,Synthetic,W,Winger,left,182,20000000
+syn:1079,Bruno Rostal,,1993-10-13,1993,Synthetic,GK,Goalkeeper,left,176,2000000
+syn:1080,Bruno Motor,,1994-01-27,1994,Synthetic,CB,Centre-back,right,182,17400000
+syn:1081,Ugo Varraki,,1995-12-15,1995,Synthetic,FB,Full-back,left,171,18200000
+syn:1082,Dario Mezsenhu,,1997-04-19,1997,Synthetic,GK,Goalkeeper,left,184,4000000
+syn:1083,Bruno Nianni,,1996-01-11,1996,Synthetic,W,Winger,left,179,500000
+syn:1084,Aris Drilenlen,,1998-02-03,1998,Synthetic,CM,Central midfielder,left,170,5300000
+syn:1085,Oren Vihuan,,1999-11-10,1999,Synthetic,FB,Full-back,left,172,1500000
+syn:1086,Mateo Dobelros,,1997-11-15,1997,Synthetic,W,Winger,right,178,24000000
+syn:1087,Kian Galsido,,1995-11-11,1995,Synthetic,DM,Defensive midfielder,left,190,22300000
+syn:1088,Cyro Porqui,,1999-05-17,1999,Synthetic,GK,Goalkeeper,right,191,800000
+syn:1090,Finn Rahu,,1997-06-12,1997,Synthetic,CB,Centre-back,right,194,10400000
+syn:1091,Ugo Anzan,,2001-03-08,2001,Synthetic,FB,Full-back,left,179,4900000
+syn:1092,Elian Huroski,,1999-02-21,1999,Synthetic,CM,Central midfielder,right,179,10300000
+syn:1093,Mateo Dohuzan,,1999-12-08,1999,Synthetic,W,Winger,right,191,16400000
+syn:1094,Mateo Niki,,1998-03-26,1998,Synthetic,ST,Striker,left,192,2600000
+syn:1095,Zeno Galni,,1999-05-25,1999,Synthetic,FB,Full-back,left,176,3800000
+syn:1096,Pavel Zanlen,,1994-06-25,1994,Synthetic,FB,Full-back,right,174,7800000
+syn:1097,Vito Movi,,1995-01-27,1995,Synthetic,CM,Central midfielder,right,184,2400000
+syn:1098,Rafa Quiracou,,1996-07-01,1996,Synthetic,W,Winger,right,189,8100000
+syn:1099,Nilo Hufe,,1999-07-07,1999,Synthetic,GK,Goalkeeper,right,180,6900000
+syn:1100,Dario Raportal,,1999-10-24,1999,Synthetic,AM,Attacking midfielder,left,186,900000
+syn:1101,Bram Huvife,,1999-02-11,1999,Synthetic,FB,Full-back,left,193,1000000
+syn:1102,Gael Rosantal,,2003-07-11,2003,Synthetic,GK,Goalkeeper,left,191,3200000
+syn:1103,Rafa Nija,,2000-08-13,2000,Synthetic,AM,Attacking midfielder,left,182,6500000
+syn:1104,Ugo Pormo,,1997-06-22,1997,Synthetic,GK,Goalkeeper,right,180,10500000
+syn:1105,Teo Quizan,,1995-09-04,1995,Synthetic,AM,Attacking midfielder,right,188,15400000
+syn:1106,Joel Taljagal,,1994-04-15,1994,Synthetic,FB,Full-back,left,178,1500000
+syn:1107,Ugo Hudoni,,1998-07-19,1998,Synthetic,CB,Centre-back,right,173,900000
+syn:1108,Gael Femez,,1997-01-26,1997,Synthetic,CM,Central midfielder,left,173,4300000
+syn:1109,Dario Lenrado,,1997-06-26,1997,Synthetic,ST,Striker,right,183,26000000
+syn:1110,Sami Ramo,,1997-01-22,1997,Synthetic,DM,Defensive midfielder,right,188,12100000
+syn:1111,Elian Quirossi,,1999-07-11,1999,Synthetic,ST,Striker,left,185,400000
+syn:1112,Luca Ragalros,,1994-09-08,1994,Synthetic,AM,Attacking midfielder,left,173,2400000
+syn:1113,Aris Belzan,,1998-02-12,1998,Synthetic,CB,Centre-back,left,174,2700000
+syn:1114,Nilo Dotortor,,1992-11-19,1992,Synthetic,GK,Goalkeeper,left,188,6000000
+syn:1115,Pavel Tordofe,,1997-06-24,1997,Synthetic,ST,Striker,right,171,5000000
+syn:1116,Rafa Galhupor,,1996-05-02,1996,Synthetic,AM,Attacking midfielder,left,179,1600000
+syn:1117,Bram Mezdri,,1999-06-09,1999,Synthetic,CB,Centre-back,right,179,5200000
+syn:1118,Kian Quital,,1999-04-18,1999,Synthetic,W,Winger,left,189,400000
+syn:1119,Alen Belbelmez,,1997-04-07,1997,Synthetic,ST,Striker,left,186,4400000
+syn:1120,Cyro Motortor,,1996-06-06,1996,Synthetic,CM,Central midfielder,right,194,1800000
+syn:1121,Teo Husenni,,1993-12-28,1993,Synthetic,W,Winger,right,178,5100000
+syn:1122,Ilan Torraqui,,1998-08-07,1998,Synthetic,CM,Central midfielder,right,171,11000000
+syn:1123,Cael Ramo,,1995-12-25,1995,Synthetic,CB,Centre-back,left,191,4400000
+syn:1124,Ugo Zanqui,,1997-10-10,1997,Synthetic,W,Winger,right,192,4600000
+syn:1125,Gael Talmo,,2002-09-25,2002,Synthetic,GK,Goalkeeper,right,192,13800000
+syn:1126,Teo Couvi,,2001-11-09,2001,Synthetic,GK,Goalkeeper,right,182,13400000
+syn:1127,Rafa Coumotor,,1998-04-10,1998,Synthetic,CB,Centre-back,right,189,1300000
+syn:1128,Fabio Lenlosi,,1994-01-15,1994,Synthetic,CB,Centre-back,right,186,600000
+syn:1129,Sami Nisi,,1998-11-25,1998,Synthetic,CM,Central midfielder,right,190,1700000
+syn:1130,Ugo Drivivi,,1994-05-05,1994,Synthetic,CB,Centre-back,left,186,1600000
+syn:1131,Zeno Jator,,1995-09-22,1995,Synthetic,FB,Full-back,right,187,15500000
+syn:1132,Pavel Drivartal,,1998-03-07,1998,Synthetic,AM,Attacking midfielder,left,192,5700000
+syn:1133,Yann Viki,,2000-03-13,2000,Synthetic,GK,Goalkeeper,left,191,1900000
+syn:1134,Aris Beltal,,1997-03-01,1997,Synthetic,FB,Full-back,right,188,8700000
+syn:1135,Emre Toransen,,1995-02-13,1995,Synthetic,ST,Striker,right,187,2100000
+syn:1136,Pavel Anportal,,1994-03-15,1994,Synthetic,FB,Full-back,right,186,700000
+syn:1137,Goran Doporbel,,1996-09-20,1996,Synthetic,DM,Defensive midfielder,left,181,4900000
+syn:1138,Emre Mobelmo,,1999-05-13,1999,Synthetic,CM,Central midfielder,left,170,3800000
+syn:1139,Cael Mezhu,,1997-09-16,1997,Synthetic,FB,Full-back,left,172,12000000
+syn:1141,Gael Kirosfe,,2002-10-13,2002,Synthetic,CB,Centre-back,left,174,900000
+syn:1142,Dario Mojasi,,1998-12-15,1998,Synthetic,DM,Defensive midfielder,right,170,5600000
+syn:1143,Alen Dolodri,,1993-03-19,1993,Synthetic,FB,Full-back,left,185,10400000
+syn:1144,Bruno Kisi,,1994-06-28,1994,Synthetic,FB,Full-back,left,192,800000
+syn:1145,Davi Mezfe,,2004-11-17,2004,Synthetic,DM,Defensive midfielder,left,173,800000
+syn:1146,Luca Sidrimo,,1994-09-19,1994,Synthetic,FB,Full-back,left,185,4300000
+syn:1147,Nilo Doqui,,2004-08-25,2004,Synthetic,CB,Centre-back,right,189,4200000
+syn:1148,Oren Mezlenmo,,1999-05-08,1999,Synthetic,DM,Defensive midfielder,left,188,2600000
+syn:1149,Rafa Beljavi,,2000-07-02,2000,Synthetic,ST,Striker,left,193,700000
+syn:1150,Gael Husizan,,2002-10-17,2002,Synthetic,CM,Central midfielder,right,187,6800000
+syn:1151,Bram Quianra,,1999-02-04,1999,Synthetic,W,Winger,right,181,9400000
+syn:1152,Yann Fecou,,2001-05-20,2001,Synthetic,AM,Attacking midfielder,left,184,2300000
+syn:1153,Kian Belviki,,1998-07-22,1998,Synthetic,ST,Striker,left,194,400000
+syn:1154,Teo Meztalsi,,1997-10-26,1997,Synthetic,FB,Full-back,left,188,900000
+syn:1155,Elian Coubelbel,,1998-08-14,1998,Synthetic,GK,Goalkeeper,right,174,4000000
+syn:1156,Ilan Nibel,,1996-05-11,1996,Synthetic,CB,Centre-back,right,193,1500000
+syn:1157,Elian Vilencou,,1996-08-24,1996,Synthetic,CB,Centre-back,right,191,4200000
+syn:1158,Nilo Zansen,,1993-07-11,1993,Synthetic,FB,Full-back,right,179,900000
+syn:1159,Elian Doni,,1993-03-26,1993,Synthetic,CM,Central midfielder,right,180,11500000
+syn:1160,Oren Quimoqui,,2000-07-14,2000,Synthetic,CB,Centre-back,right,171,23600000
+syn:1161,Rafa Vidri,,1999-06-20,1999,Synthetic,AM,Attacking midfielder,right,179,1800000
+syn:1162,Rafa Senjaros,,1996-02-11,1996,Synthetic,CB,Centre-back,left,177,9900000
+syn:1163,Emre Mezfepor,,1996-03-05,1996,Synthetic,W,Winger,right,182,3800000
+syn:1164,Dario Lohu,,1999-02-21,1999,Synthetic,ST,Striker,right,185,4700000
+syn:1165,Aris Driros,,1996-05-12,1996,Synthetic,FB,Full-back,right,194,8800000
+syn:1166,Goran Anmo,,2002-11-28,2002,Synthetic,FB,Full-back,right,190,6400000
+syn:1167,Bruno Coumez,,2003-12-25,2003,Synthetic,CB,Centre-back,left,192,6600000
+syn:1168,Oren Belra,,1996-11-13,1996,Synthetic,CM,Central midfielder,left,191,4900000
+syn:1169,Luca Kimo,,2002-08-12,2002,Synthetic,DM,Defensive midfielder,right,182,20000000
+syn:1170,Ugo Jasi,,2003-02-08,2003,Synthetic,GK,Goalkeeper,left,194,2700000
+syn:1171,Rafa Kigal,,1997-04-15,1997,Synthetic,CB,Centre-back,left,171,2000000
+syn:1172,Nilo Mezra,,1995-10-23,1995,Synthetic,CB,Centre-back,left,178,11100000
+syn:1173,Kian Loloni,,2000-12-16,2000,Synthetic,DM,Defensive midfielder,right,185,8000000
+syn:1174,Sami Feferos,,1999-07-13,1999,Synthetic,FB,Full-back,right,174,9400000
+syn:1175,Joel Kitorni,,2002-04-24,2002,Synthetic,ST,Striker,right,192,700000
+syn:1176,Joel Anvisen,,2000-08-06,2000,Synthetic,FB,Full-back,right,193,1600000
+syn:1177,Bram Anhu,,2001-11-05,2001,Synthetic,W,Winger,right,188,3900000
+syn:1178,Aris Pordri,,1993-03-19,1993,Synthetic,CM,Central midfielder,left,189,2800000
+syn:1179,Zeno Torcou,,1992-05-08,1992,Synthetic,FB,Full-back,right,179,4500000
+syn:1180,Zeno Belkidri,,2002-11-07,2002,Synthetic,GK,Goalkeeper,left,193,1300000
+syn:1182,Ilan Vimezzan,,2004-12-08,2004,Synthetic,W,Winger,right,192,1200000
+syn:1183,Kian Gallenvar,,2002-12-27,2002,Synthetic,CM,Central midfielder,right,187,1900000
+syn:1184,Mateo Niqui,,1994-06-28,1994,Synthetic,CB,Centre-back,right,177,600000
+syn:1185,Aris Sipor,,1998-05-08,1998,Synthetic,ST,Striker,right,182,15500000
+syn:1186,Cael Galjatal,,2002-05-24,2002,Synthetic,W,Winger,right,174,3800000
+syn:1187,Rafa Torni,,1995-11-08,1995,Synthetic,ST,Striker,right,172,2900000
+syn:1188,Bruno Hufe,,1996-06-27,1996,Synthetic,W,Winger,left,194,2700000
+syn:1190,Gael Belvi,,2002-12-10,2002,Synthetic,AM,Attacking midfielder,left,171,15400000
+syn:1191,Ilan Nivar,,1998-10-10,1998,Synthetic,CB,Centre-back,right,187,2800000
+syn:1192,Mateo Niporja,,1995-09-05,1995,Synthetic,CB,Centre-back,left,181,2900000
+syn:1193,Ugo Dogal,,1999-05-09,1999,Synthetic,AM,Attacking midfielder,left,178,1600000
+syn:1194,Finn Porquizan,,2001-06-25,2001,Synthetic,CM,Central midfielder,left,189,6600000
+syn:1195,Pavel Galanmo,,2000-06-10,2000,Synthetic,GK,Goalkeeper,right,174,21700000
+syn:1196,Emre Senni,,1997-09-21,1997,Synthetic,AM,Attacking midfielder,right,171,8500000
+syn:1197,Luca Hulen,,1994-05-14,1994,Synthetic,AM,Attacking midfielder,left,189,7200000
+syn:1198,Zeno Doki,,1999-07-27,1999,Synthetic,CM,Central midfielder,right,190,1200000
+syn:1199,Finn Vivardo,,1999-12-13,1999,Synthetic,CB,Centre-back,left,170,12800000
+syn:1200,Pavel Mezvar,,1998-12-01,1998,Synthetic,CB,Centre-back,right,175,4000000
+syn:1201,Goran Lenvi,,1996-10-28,1996,Synthetic,DM,Defensive midfielder,left,183,18000000
+syn:1202,Luca Coudriros,,2000-12-06,2000,Synthetic,GK,Goalkeeper,left,186,7900000
+syn:1203,Mateo Jafe,,1999-02-06,1999,Synthetic,CB,Centre-back,left,194,1900000
+syn:1204,Fabio Nisenhu,,1999-02-20,1999,Synthetic,CB,Centre-back,right,173,1500000
+syn:1205,Dario Modo,,2001-09-13,2001,Synthetic,W,Winger,right,172,5700000
+syn:1206,Hugo Fequi,,2000-12-16,2000,Synthetic,CM,Central midfielder,left,185,400000
+syn:1207,Cyro Sengalhu,,1999-08-01,1999,Synthetic,CM,Central midfielder,left,178,1300000
+syn:1208,Yann Drital,,2003-08-02,2003,Synthetic,FB,Full-back,left,170,500000
+syn:1209,Emre Vilenlo,,1994-07-14,1994,Synthetic,W,Winger,right,184,4700000
+syn:1210,Bruno Zanan,,1996-06-24,1996,Synthetic,CB,Centre-back,left,192,10400000
+syn:1211,Vito Vihupor,,1994-01-12,1994,Synthetic,CB,Centre-back,left,175,2500000
+syn:1212,Alen Lental,,2003-05-15,2003,Synthetic,FB,Full-back,right,184,4700000
+syn:1213,Gael Taltorja,,2004-02-01,2004,Synthetic,AM,Attacking midfielder,right,170,2700000
+syn:1214,Aris Doquilen,,1996-09-25,1996,Synthetic,AM,Attacking midfielder,left,173,2700000
+syn:1215,Kian Dohusi,,1993-07-25,1993,Synthetic,W,Winger,left,189,2500000
+syn:1216,Bruno Driros,,1992-11-06,1992,Synthetic,FB,Full-back,right,187,1700000
+syn:1217,Oren Lolohu,,1996-05-12,1996,Synthetic,W,Winger,right,173,1300000
+syn:1218,Zeno Galzanhu,,1996-10-17,1996,Synthetic,FB,Full-back,left,190,1100000
+syn:1219,Davi Fefeja,,1997-04-14,1997,Synthetic,CB,Centre-back,left,177,6800000
+syn:1220,Cyro Lenjamo,,1997-02-13,1997,Synthetic,ST,Striker,left,176,6800000
+syn:1221,Joel Mezmeztal,,1994-05-14,1994,Synthetic,FB,Full-back,right,194,6800000
+syn:1222,Davi Jagal,,1993-09-27,1993,Synthetic,ST,Striker,left,194,3400000
+syn:1223,Zeno Varhuni,,1995-06-05,1995,Synthetic,FB,Full-back,right,171,6400000
+syn:1225,Elian Sentalvar,,1997-10-05,1997,Synthetic,FB,Full-back,left,184,5400000
+syn:1226,Yann Mohumez,,1995-09-12,1995,Synthetic,CB,Centre-back,right,171,6400000
+syn:1227,Zeno Talraja,,1996-07-04,1996,Synthetic,ST,Striker,right,176,1100000
+syn:1228,Bram Zanlen,,1993-03-20,1993,Synthetic,FB,Full-back,right,170,6100000
+syn:1229,Sami Niqui,,1997-07-09,1997,Synthetic,AM,Attacking midfielder,right,175,1100000
+syn:1230,Goran Sivar,,2000-06-01,2000,Synthetic,ST,Striker,right,179,4000000
+syn:1231,Vito Varrani,,1996-10-24,1996,Synthetic,GK,Goalkeeper,left,171,1300000
+syn:1232,Finn Loja,,1992-01-04,1992,Synthetic,CM,Central midfielder,left,187,600000
+syn:1233,Bram Porlodri,,1994-03-21,1994,Synthetic,AM,Attacking midfielder,right,180,2500000
+syn:1234,Cyro Senmogal,,2001-01-02,2001,Synthetic,CB,Centre-back,right,186,6700000
+syn:1235,Elian Lenlenqui,,2000-01-26,2000,Synthetic,GK,Goalkeeper,right,179,5200000
+syn:1236,Teo Bellenni,,1994-09-05,1994,Synthetic,CM,Central midfielder,right,188,1000000
+syn:1237,Kian Varmezvar,,2001-07-05,2001,Synthetic,CB,Centre-back,left,174,700000
+syn:1238,Joel Taltal,,1996-01-09,1996,Synthetic,AM,Attacking midfielder,right,189,8800000
+syn:1239,Goran Nihu,,1995-12-12,1995,Synthetic,FB,Full-back,right,179,4000000
+syn:1240,Davi Mohu,,2001-09-02,2001,Synthetic,DM,Defensive midfielder,left,180,3000000
+syn:1241,Ilan Galkizan,,1997-07-07,1997,Synthetic,CB,Centre-back,right,194,2100000
+syn:1242,Luca Sivivar,,1993-01-24,1993,Synthetic,ST,Striker,right,180,4800000
+syn:1243,Goran Coubel,,1995-11-21,1995,Synthetic,GK,Goalkeeper,left,178,9500000
+syn:1244,Fabio Torgaltor,,1999-06-21,1999,Synthetic,CM,Central midfielder,right,187,2400000
+syn:1245,Cyro Ranihu,,1993-08-05,1993,Synthetic,FB,Full-back,left,177,1400000
+syn:1246,Pavel Senpor,,1997-07-20,1997,Synthetic,CM,Central midfielder,right,180,5100000
+syn:1247,Sami Andrija,,2001-09-02,2001,Synthetic,FB,Full-back,right,189,3600000
+syn:1248,Yann Talkisi,,1993-02-25,1993,Synthetic,W,Winger,right,173,7200000
+syn:1249,Nilo Driquital,,1999-10-10,1999,Synthetic,ST,Striker,left,190,5300000
+syn:1250,Nilo Momezki,,1994-12-03,1994,Synthetic,DM,Defensive midfielder,left,172,7900000
+syn:1251,Cyro Galqui,,1995-01-17,1995,Synthetic,CM,Central midfielder,left,183,21100000
+syn:1252,Davi Senni,,1998-11-22,1998,Synthetic,ST,Striker,right,181,6700000
+syn:1253,Elian Porkisi,,1998-08-26,1998,Synthetic,FB,Full-back,right,178,9300000
+syn:1254,Finn Tortorfe,,1993-10-24,1993,Synthetic,CB,Centre-back,right,191,14200000
+syn:1255,Zeno Talrosdri,,1992-12-14,1992,Synthetic,FB,Full-back,right,173,7500000
+syn:1256,Teo Senmez,,1994-08-23,1994,Synthetic,ST,Striker,right,184,1000000
+syn:1257,Oren Anzan,,1994-08-26,1994,Synthetic,CB,Centre-back,right,192,1300000
+syn:1258,Ugo Jamoja,,2002-06-23,2002,Synthetic,CM,Central midfielder,left,175,1000000
+syn:1259,Fabio Mopor,,2001-02-14,2001,Synthetic,DM,Defensive midfielder,left,177,19800000
+syn:1260,Emre Silenpor,,2003-09-07,2003,Synthetic,FB,Full-back,left,194,5100000
+syn:1261,Hugo Zandri,,1996-02-06,1996,Synthetic,CM,Central midfielder,left,194,5300000
+syn:1262,Pavel Tortal,,1997-02-21,1997,Synthetic,FB,Full-back,right,172,1800000
+syn:1263,Goran Kicouzan,,1994-07-02,1994,Synthetic,CB,Centre-back,right,188,6100000
+syn:1264,Emre Torportal,,2002-07-05,2002,Synthetic,CB,Centre-back,right,176,5400000
+syn:1265,Yann Mohudri,,1998-12-10,1998,Synthetic,CB,Centre-back,left,192,6600000
+syn:1266,Alen Niros,,2002-09-01,2002,Synthetic,DM,Defensive midfielder,right,177,10800000
+syn:1267,Pavel Mohumo,,1995-10-09,1995,Synthetic,AM,Attacking midfielder,right,189,10000000
+syn:1268,Zeno Lenki,,1994-08-18,1994,Synthetic,CB,Centre-back,left,176,10500000
+syn:1269,Luca Nimez,,1998-12-12,1998,Synthetic,AM,Attacking midfielder,left,192,900000
+syn:1270,Hugo Zanki,,1997-09-23,1997,Synthetic,GK,Goalkeeper,left,174,5500000
+syn:1271,Joel Huros,,1993-04-23,1993,Synthetic,W,Winger,right,178,900000
+syn:1272,Bruno Taltalbel,,1992-10-07,1992,Synthetic,AM,Attacking midfielder,right,181,700000
+syn:1273,Ugo Loporlo,,1994-10-10,1994,Synthetic,DM,Defensive midfielder,right,182,4500000
+syn:1274,Ugo Kisimo,,1997-07-03,1997,Synthetic,CB,Centre-back,right,174,2900000
+syn:1275,Emre Drimotal,,1997-10-01,1997,Synthetic,CM,Central midfielder,left,182,1900000
+syn:1276,Cael Rasen,,1997-04-16,1997,Synthetic,DM,Defensive midfielder,right,170,4700000
+syn:1277,Luca Siki,,1999-03-02,1999,Synthetic,FB,Full-back,left,182,1200000
+syn:1278,Gael Rossi,,1996-09-20,1996,Synthetic,FB,Full-back,left,174,2800000
+syn:1279,Emre Lopor,,2003-10-26,2003,Synthetic,CB,Centre-back,right,183,2000000
+syn:1280,Pavel Tallopor,,1999-05-17,1999,Synthetic,ST,Striker,left,176,26400000
+syn:1281,Finn Belanhu,,2000-09-13,2000,Synthetic,CB,Centre-back,right,183,8100000
+syn:1282,Cael Quisen,,1995-05-08,1995,Synthetic,CB,Centre-back,left,172,7100000
+syn:1283,Rafa Jakigal,,1994-11-17,1994,Synthetic,W,Winger,left,174,1400000
+syn:1284,Cyro Vital,,1995-05-08,1995,Synthetic,GK,Goalkeeper,right,189,7400000
+syn:1285,Hugo Talgalgal,,1998-07-23,1998,Synthetic,W,Winger,left,174,6000000
+syn:1286,Bram Coucouzan,,1998-01-23,1998,Synthetic,CM,Central midfielder,right,184,1000000
+syn:1288,Pavel Fefe,,1995-03-08,1995,Synthetic,CB,Centre-back,left,181,22000000
+syn:1289,Alen Janira,,1999-12-11,1999,Synthetic,ST,Striker,right,183,1900000
+syn:1290,Goran Losenfe,,2002-11-28,2002,Synthetic,FB,Full-back,left,174,1700000
+syn:1291,Elian Couros,,1998-10-16,1998,Synthetic,CM,Central midfielder,right,171,1300000
+syn:1292,Oren Mezja,,1992-03-26,1992,Synthetic,AM,Attacking midfielder,left,189,9600000
+syn:1293,Pavel Vinitor,,1997-09-10,1997,Synthetic,CB,Centre-back,right,181,3700000
+syn:1294,Ugo Jalen,,1999-04-20,1999,Synthetic,ST,Striker,right,187,4100000
+syn:1295,Aris Torvi,,1996-08-05,1996,Synthetic,GK,Goalkeeper,left,193,5300000
+syn:1296,Nilo Lenmomez,,1995-04-08,1995,Synthetic,CM,Central midfielder,right,179,2400000
+syn:1297,Sami Porvi,,1996-10-10,1996,Synthetic,CB,Centre-back,left,176,2500000
+syn:1298,Vito Quibel,,1997-06-25,1997,Synthetic,GK,Goalkeeper,right,179,400000
+syn:1299,Emre Niferos,,1994-04-22,1994,Synthetic,CB,Centre-back,right,181,7800000
+syn:1300,Bruno Galdrilo,,1994-04-27,1994,Synthetic,ST,Striker,right,177,2200000
+syn:1301,Teo Cousengal,,1994-09-26,1994,Synthetic,ST,Striker,right,190,3600000
+syn:1302,Bram Belja,,1995-09-19,1995,Synthetic,FB,Full-back,left,176,6900000
+syn:1303,Vito Couan,,1997-06-16,1997,Synthetic,CB,Centre-back,left,186,8400000
+syn:1304,Sami Senrosvar,,1996-04-18,1996,Synthetic,ST,Striker,right,184,800000
+syn:1305,Emre Vija,,1997-06-02,1997,Synthetic,ST,Striker,left,185,8200000
+syn:1306,Cyro Torbel,,1998-09-27,1998,Synthetic,CM,Central midfielder,right,170,12500000
+syn:1308,Cyro Vife,,1995-03-22,1995,Synthetic,AM,Attacking midfielder,right,193,1000000
+syn:1309,Yann Sidri,,2007-08-05,2007,Synthetic,FB,Full-back,right,187,6100000
+syn:1310,Yann Mezlen,,1994-12-09,1994,Synthetic,CM,Central midfielder,left,191,900000
+syn:1311,Finn Lonivi,,2003-08-02,2003,Synthetic,CM,Central midfielder,left,178,4500000
+syn:1312,Oren Pormez,,1999-08-28,1999,Synthetic,FB,Full-back,left,193,3600000
+syn:1313,Fabio Senja,,1997-01-28,1997,Synthetic,CB,Centre-back,left,170,2200000
+syn:1314,Pavel Nicou,,1999-03-01,1999,Synthetic,DM,Defensive midfielder,right,172,2900000
+syn:1315,Aris Anvar,,2000-08-05,2000,Synthetic,FB,Full-back,left,184,1100000
+syn:1316,Emre Vivi,,2001-06-15,2001,Synthetic,CB,Centre-back,right,171,2900000
+syn:1317,Vito Hudo,,2000-08-11,2000,Synthetic,CM,Central midfielder,right,176,4500000
+syn:1318,Hugo Felovi,,2002-06-08,2002,Synthetic,DM,Defensive midfielder,right,173,7300000
+syn:1319,Oren Lenja,,1994-04-08,1994,Synthetic,CB,Centre-back,left,174,1600000
+syn:1320,Dario Mezra,,1999-08-15,1999,Synthetic,CM,Central midfielder,left,171,5700000
+syn:1321,Finn Hubel,,1997-09-12,1997,Synthetic,FB,Full-back,left,191,2600000
+syn:1322,Bram Viporvi,,1994-07-14,1994,Synthetic,DM,Defensive midfielder,left,177,600000
+syn:1323,Kian Quigal,,1994-08-06,1994,Synthetic,W,Winger,right,191,27500000
+syn:1324,Cael Zankiki,,1997-03-06,1997,Synthetic,AM,Attacking midfielder,right,183,12600000
+syn:1325,Pavel Jalo,,2000-10-07,2000,Synthetic,W,Winger,left,171,700000
+syn:1326,Fabio Quidri,,1995-07-25,1995,Synthetic,ST,Striker,left,172,7500000
+syn:1327,Pavel Jazanfe,,1998-10-16,1998,Synthetic,ST,Striker,left,173,4000000
+syn:1328,Mateo Belgal,,1999-06-04,1999,Synthetic,CB,Centre-back,right,190,1000000
+syn:1330,Nilo Pormo,,1997-12-20,1997,Synthetic,CM,Central midfielder,left,179,4800000
+syn:1331,Bram Vicouzan,,1999-03-02,1999,Synthetic,DM,Defensive midfielder,right,171,1500000
+syn:1332,Cael Lodrigal,,2000-12-07,2000,Synthetic,CM,Central midfielder,right,177,900000
+syn:1333,Kian Quilo,,2001-03-16,2001,Synthetic,ST,Striker,right,180,1500000
+syn:1334,Pavel Lenzan,,1996-04-01,1996,Synthetic,CM,Central midfielder,left,179,3900000
+syn:1335,Teo Vipor,,2001-11-14,2001,Synthetic,GK,Goalkeeper,right,186,2300000
+syn:1336,Oren Coujaan,,1993-07-03,1993,Synthetic,GK,Goalkeeper,left,182,2600000
+syn:1337,Hugo Talnisi,,2006-01-01,2006,Synthetic,W,Winger,left,177,1300000
+syn:1338,Bram Pormo,,1997-03-10,1997,Synthetic,W,Winger,left,181,600000
+syn:1340,Vito Vigal,,1997-01-08,1997,Synthetic,ST,Striker,right,175,8600000
+syn:1341,Ilan Sendrija,,1997-10-23,1997,Synthetic,GK,Goalkeeper,left,182,3200000
+syn:1342,Dario Doja,,1994-12-03,1994,Synthetic,W,Winger,left,173,15500000
+syn:1343,Vito Varsencou,,1997-07-04,1997,Synthetic,FB,Full-back,right,193,1700000
+syn:1344,Nilo Mezqui,,2000-01-12,2000,Synthetic,FB,Full-back,left,184,4000000
+syn:1345,Vito Porlo,,2000-05-17,2000,Synthetic,DM,Defensive midfielder,left,177,800000
+syn:1346,Oren Senbelsi,,1998-12-23,1998,Synthetic,W,Winger,left,185,2500000
+syn:1347,Ilan Anantor,,2003-10-04,2003,Synthetic,CM,Central midfielder,right,170,2900000
+syn:1348,Fabio Galsen,,1996-04-09,1996,Synthetic,CM,Central midfielder,left,180,1100000
+syn:1349,Nilo Rosmo,,1996-06-23,1996,Synthetic,W,Winger,left,182,14600000
+syn:1350,Goran Belpordri,,1999-02-21,1999,Synthetic,FB,Full-back,right,188,2800000
+syn:1351,Ilan Varki,,2006-11-19,2006,Synthetic,W,Winger,left,187,1400000
+syn:1352,Pavel Lomezcou,,1995-10-20,1995,Synthetic,ST,Striker,right,194,6500000
+syn:1353,Fabio Radri,,2003-09-24,2003,Synthetic,CB,Centre-back,left,175,14100000
+syn:1354,Gael Drini,,1999-02-21,1999,Synthetic,DM,Defensive midfielder,left,170,700000
+syn:1355,Sami Modrira,,1995-04-27,1995,Synthetic,CB,Centre-back,right,181,1500000
+syn:1356,Ugo Galros,,1997-05-14,1997,Synthetic,CM,Central midfielder,right,183,2000000
+syn:1357,Finn Sengal,,1997-10-04,1997,Synthetic,W,Winger,left,187,5300000
+syn:1358,Oren Moqui,,1993-08-16,1993,Synthetic,CB,Centre-back,right,170,3800000
+syn:1359,Yann Pormezan,,1994-08-25,1994,Synthetic,AM,Attacking midfielder,left,179,3900000
+syn:1360,Emre Andopor,,2000-11-11,2000,Synthetic,CM,Central midfielder,right,192,17000000
+syn:1361,Joel Nizanni,,1999-01-08,1999,Synthetic,CM,Central midfielder,right,180,4500000
+syn:1363,Joel Sicoufe,,1996-09-15,1996,Synthetic,DM,Defensive midfielder,right,181,500000
+syn:1364,Vito Galdriki,,1995-03-07,1995,Synthetic,ST,Striker,right,171,6200000
+syn:1365,Mateo Nitaltal,,1994-11-05,1994,Synthetic,ST,Striker,right,191,5500000
+syn:1366,Kian Couvi,,1995-08-24,1995,Synthetic,GK,Goalkeeper,right,171,13500000
+syn:1367,Zeno Kital,,1998-10-01,1998,Synthetic,W,Winger,left,171,1700000
+syn:1368,Cyro Sisian,,1992-05-23,1992,Synthetic,W,Winger,right,177,6800000
+syn:1369,Ilan Roszan,,2002-06-17,2002,Synthetic,FB,Full-back,right,189,5200000
+syn:1370,Pavel Logal,,1992-02-16,1992,Synthetic,CB,Centre-back,right,187,4800000
+syn:1371,Yann Meztorgal,,1997-06-01,1997,Synthetic,CB,Centre-back,left,187,3100000
+syn:1372,Davi Lovarsi,,2001-05-19,2001,Synthetic,FB,Full-back,left,184,27300000
+syn:1373,Elian Senfe,,1997-07-27,1997,Synthetic,FB,Full-back,left,194,3700000
+syn:1374,Nilo Belki,,1996-11-05,1996,Synthetic,FB,Full-back,left,176,8800000
+syn:1375,Emre Anni,,2000-07-15,2000,Synthetic,DM,Defensive midfielder,right,177,3200000
+syn:1376,Joel Losenhu,,2002-09-12,2002,Synthetic,CM,Central midfielder,left,187,4300000
+syn:1378,Cyro Jalo,,1993-10-13,1993,Synthetic,AM,Attacking midfielder,right,173,1100000
+syn:1379,Luca Huki,,2001-07-01,2001,Synthetic,FB,Full-back,left,184,6400000
+syn:1380,Gael Anra,,1996-04-01,1996,Synthetic,CB,Centre-back,left,192,2400000
+syn:1381,Fabio Taltorra,,2001-06-06,2001,Synthetic,DM,Defensive midfielder,right,188,3100000
+syn:1382,Sami Quipor,,1996-12-23,1996,Synthetic,FB,Full-back,right,186,4000000
+syn:1383,Zeno Rabel,,2000-03-07,2000,Synthetic,FB,Full-back,right,190,3500000
+syn:1384,Finn Quilen,,1999-07-03,1999,Synthetic,CB,Centre-back,left,193,3100000
+syn:1385,Alen Senhu,,1999-05-06,1999,Synthetic,FB,Full-back,right,176,16900000
+syn:1386,Pavel Jalo,,2001-04-11,2001,Synthetic,FB,Full-back,left,186,2900000
+syn:1387,Nilo Tallen,,1994-11-21,1994,Synthetic,CB,Centre-back,right,193,2900000
+syn:1388,Davi Kilencou,,1995-03-04,1995,Synthetic,W,Winger,right,171,2800000
+syn:1389,Bram Galgalfe,,1996-12-28,1996,Synthetic,CM,Central midfielder,right,186,4100000
+syn:1390,Kian Rosmo,,1997-07-02,1997,Synthetic,CM,Central midfielder,right,173,3300000
+syn:1391,Yann Lenvi,,1997-02-11,1997,Synthetic,DM,Defensive midfielder,left,179,2100000
+syn:1392,Cyro Hubelvi,,2001-05-15,2001,Synthetic,ST,Striker,right,183,1700000
+syn:1393,Kian Bellen,,1996-07-26,1996,Synthetic,CM,Central midfielder,right,180,4500000
+syn:1394,Vito Lorosja,,1996-05-25,1996,Synthetic,CB,Centre-back,right,176,2300000
+syn:1395,Goran Zanpor,,1997-02-16,1997,Synthetic,CB,Centre-back,right,183,4800000
+syn:1396,Mateo Razanvar,,1997-09-25,1997,Synthetic,FB,Full-back,left,170,2900000
+syn:1397,Cael Racoutor,,1993-06-12,1993,Synthetic,FB,Full-back,left,185,2100000
+syn:1398,Cael Senzantal,,1994-03-18,1994,Synthetic,CB,Centre-back,right,191,1500000
+syn:1399,Elian Dogal,,1996-04-13,1996,Synthetic,CM,Central midfielder,right,190,2700000
+syn:1400,Oren Drimodo,,1999-02-23,1999,Synthetic,W,Winger,right,172,1900000
+syn:1401,Joel Fegalzan,,1996-03-07,1996,Synthetic,CM,Central midfielder,right,181,7300000
+syn:1402,Alen Coulen,,1993-05-22,1993,Synthetic,DM,Defensive midfielder,right,177,5600000
+syn:1403,Gael Dofe,,1995-10-25,1995,Synthetic,AM,Attacking midfielder,left,194,2800000
+syn:1404,Luca Torquigal,,1999-03-08,1999,Synthetic,CB,Centre-back,right,173,1500000
+syn:1405,Teo Lendolen,,2000-03-17,2000,Synthetic,ST,Striker,left,190,4800000
+syn:1406,Bram Talni,,1997-05-14,1997,Synthetic,AM,Attacking midfielder,right,182,7600000
+syn:1407,Goran Motor,,1996-09-16,1996,Synthetic,DM,Defensive midfielder,left,176,10000000
+syn:1408,Teo Rosqui,,1997-11-24,1997,Synthetic,GK,Goalkeeper,right,188,3200000
+syn:1409,Bruno Portalki,,2001-07-24,2001,Synthetic,GK,Goalkeeper,left,191,6700000
+syn:1410,Cyro Mezbel,,2007-05-26,2007,Synthetic,GK,Goalkeeper,right,182,6800000
+syn:1411,Fabio Talfe,,1995-12-09,1995,Synthetic,CM,Central midfielder,right,194,44200000
+syn:1412,Alen Torqui,,1997-02-27,1997,Synthetic,CB,Centre-back,right,181,5900000
+syn:1413,Nilo Huanni,,2000-08-06,2000,Synthetic,DM,Defensive midfielder,left,180,2400000
+syn:1414,Elian Ramo,,1994-11-13,1994,Synthetic,FB,Full-back,right,184,2300000
+syn:1415,Bram Antal,,1995-06-02,1995,Synthetic,FB,Full-back,left,193,1500000
+syn:1416,Finn Nini,,1998-02-10,1998,Synthetic,ST,Striker,right,173,1600000
+syn:1417,Mateo Rafemo,,1993-04-07,1993,Synthetic,DM,Defensive midfielder,right,187,3100000
+syn:1418,Zeno Hutal,,1993-08-01,1993,Synthetic,W,Winger,right,188,900000
+syn:1419,Ugo Varfe,,1997-01-15,1997,Synthetic,CB,Centre-back,left,193,3000000
+syn:1420,Ilan Rosmezja,,2001-01-17,2001,Synthetic,CB,Centre-back,right,171,10500000
+syn:1421,Sami Feloros,,1995-09-18,1995,Synthetic,CM,Central midfielder,right,186,1900000
+syn:1422,Nilo Kian,,1993-12-03,1993,Synthetic,GK,Goalkeeper,left,189,19300000
+syn:1423,Elian Porsilen,,1998-08-07,1998,Synthetic,CM,Central midfielder,right,188,4000000
+syn:1424,Mateo Drinilo,,2000-04-14,2000,Synthetic,W,Winger,right,170,2200000
+syn:1425,Finn Viki,,2002-11-01,2002,Synthetic,CM,Central midfielder,right,190,4700000
+syn:1426,Bruno Porsi,,2000-09-10,2000,Synthetic,W,Winger,right,177,3900000
+syn:1427,Dario Porqui,,1998-05-22,1998,Synthetic,CM,Central midfielder,left,174,2100000
+syn:1428,Dario Talvivi,,2000-08-22,2000,Synthetic,AM,Attacking midfielder,left,171,4200000
+syn:1429,Finn Fehu,,1996-02-10,1996,Synthetic,DM,Defensive midfielder,right,183,5400000
+syn:1430,Dario Vigal,,1995-02-02,1995,Synthetic,FB,Full-back,left,174,3800000
+syn:1431,Rafa Lental,,1997-08-23,1997,Synthetic,FB,Full-back,right,189,1600000
+syn:1432,Emre Rosvi,,1993-11-05,1993,Synthetic,W,Winger,left,171,9500000
+syn:1433,Davi Hulen,,1996-05-12,1996,Synthetic,AM,Attacking midfielder,left,181,11200000
+syn:1434,Goran Belnido,,1997-04-14,1997,Synthetic,GK,Goalkeeper,left,181,4700000
+syn:1435,Elian Coumez,,1997-07-28,1997,Synthetic,CM,Central midfielder,right,189,4900000
+syn:1436,Sami Ralo,,2006-04-02,2006,Synthetic,AM,Attacking midfielder,left,180,13900000
+syn:1437,Bruno Talvi,,1997-04-26,1997,Synthetic,FB,Full-back,left,184,11200000
+syn:1438,Bruno Radri,,2002-07-22,2002,Synthetic,FB,Full-back,left,174,1200000
+syn:1439,Luca Loramo,,2004-01-09,2004,Synthetic,AM,Attacking midfielder,left,172,2800000
+syn:1440,Davi Nidrivi,,1997-03-18,1997,Synthetic,CM,Central midfielder,right,180,3400000
+syn:1441,Vito Belkido,,1997-05-14,1997,Synthetic,CB,Centre-back,right,193,6100000
+syn:1442,Mateo Vimo,,1996-04-21,1996,Synthetic,CM,Central midfielder,right,190,3000000
+syn:1443,Vito Porsenlo,,1999-01-04,1999,Synthetic,W,Winger,left,176,3200000
+syn:1444,Teo Moki,,2001-04-13,2001,Synthetic,CB,Centre-back,right,172,1000000
+syn:1445,Finn Docousen,,2000-11-14,2000,Synthetic,FB,Full-back,right,182,6500000
+syn:1446,Yann Varrado,,1996-04-15,1996,Synthetic,FB,Full-back,right,180,4800000
+syn:1447,Elian Zanni,,1999-07-07,1999,Synthetic,CB,Centre-back,right,183,4600000
+syn:1448,Goran Torvi,,2001-12-07,2001,Synthetic,CB,Centre-back,left,180,4000000
+syn:1449,Bram Couzan,,1992-11-27,1992,Synthetic,AM,Attacking midfielder,right,182,5500000
+syn:1451,Cyro Visen,,2005-08-03,2005,Synthetic,CB,Centre-back,right,177,1100000
+syn:1452,Cyro Portor,,2004-11-15,2004,Synthetic,DM,Defensive midfielder,left,173,9600000
+syn:1454,Mateo Torzan,,1993-12-13,1993,Synthetic,W,Winger,right,187,700000
+syn:1455,Joel Varvar,,1998-04-26,1998,Synthetic,W,Winger,right,189,5300000
+syn:1456,Teo Dolengal,,1992-10-02,1992,Synthetic,CB,Centre-back,right,185,1900000
+syn:1457,Pavel Vardrido,,1999-11-01,1999,Synthetic,FB,Full-back,right,172,900000
+syn:1458,Goran Feanan,,1993-04-15,1993,Synthetic,CB,Centre-back,left,189,1800000
+syn:1459,Bruno Drini,,1995-05-06,1995,Synthetic,CB,Centre-back,left,189,700000
+syn:1460,Finn Rara,,1995-09-25,1995,Synthetic,FB,Full-back,left,178,5200000
+syn:1461,Dario Dobelra,,1995-06-16,1995,Synthetic,ST,Striker,left,192,7800000
+syn:1462,Elian Jalenan,,1994-04-05,1994,Synthetic,W,Winger,left,171,2100000
+syn:1463,Dario Talquimez,,1995-12-07,1995,Synthetic,ST,Striker,right,180,19300000
+syn:1464,Sami Drivarbel,,1997-07-20,1997,Synthetic,W,Winger,right,178,1700000
+syn:1465,Joel Taltorfe,,1995-10-10,1995,Synthetic,CB,Centre-back,left,183,6300000
+syn:1466,Aris Vizan,,1994-03-01,1994,Synthetic,AM,Attacking midfielder,left,193,11100000
+syn:1467,Elian Lodovar,,1995-03-02,1995,Synthetic,CB,Centre-back,right,170,19500000
+syn:1468,Vito Vikija,,1999-12-04,1999,Synthetic,AM,Attacking midfielder,left,189,5200000
+syn:1469,Alen Jaros,,1999-04-09,1999,Synthetic,FB,Full-back,right,180,1400000
+syn:1470,Fabio Logalvar,,1996-10-04,1996,Synthetic,DM,Defensive midfielder,left,180,7000000
+syn:1471,Oren Lomezvi,,2003-07-13,2003,Synthetic,DM,Defensive midfielder,right,175,2000000
+syn:1472,Teo Jazanmo,,1997-10-25,1997,Synthetic,W,Winger,right,179,5300000
+syn:1473,Hugo Sicoumez,,1996-01-24,1996,Synthetic,DM,Defensive midfielder,right,178,1400000
+syn:1474,Teo Feros,,2002-02-10,2002,Synthetic,GK,Goalkeeper,left,193,3300000
+syn:1475,Joel Tortalvar,,1999-04-08,1999,Synthetic,FB,Full-back,right,184,1200000
+syn:1476,Emre Raki,,1997-02-18,1997,Synthetic,CB,Centre-back,right,178,2400000
+syn:1477,Goran Nirani,,2001-04-20,2001,Synthetic,CM,Central midfielder,right,180,7200000
+syn:1478,Emre Fevi,,1994-06-06,1994,Synthetic,FB,Full-back,left,177,3800000
+syn:1479,Dario Meznigal,,2006-02-08,2006,Synthetic,GK,Goalkeeper,left,175,1400000
+syn:1480,Luca Tallo,,2001-11-08,2001,Synthetic,CB,Centre-back,left,172,5400000
+syn:1481,Hugo Anan,,1999-09-23,1999,Synthetic,DM,Defensive midfielder,left,187,2500000
+syn:1482,Emre Siviros,,1999-07-06,1999,Synthetic,CB,Centre-back,right,180,5000000
+syn:1483,Zeno Quizanmo,,1999-05-03,1999,Synthetic,W,Winger,left,177,1300000
+syn:1484,Cyro Rosdoja,,1999-02-10,1999,Synthetic,FB,Full-back,left,177,6200000
+syn:1485,Elian Silen,,1993-03-10,1993,Synthetic,CB,Centre-back,left,192,6000000
+syn:1486,Vito Zanvar,,1998-08-22,1998,Synthetic,ST,Striker,left,188,2900000
+syn:1487,Cael Sisenmez,,2000-04-19,2000,Synthetic,FB,Full-back,right,174,7300000
+syn:1488,Bram Bello,,1997-08-22,1997,Synthetic,W,Winger,right,177,5200000
+syn:1489,Davi Torsipor,,1996-11-19,1996,Synthetic,ST,Striker,left,174,1300000
+syn:1490,Zeno Viquivar,,2002-02-01,2002,Synthetic,CB,Centre-back,left,187,1200000
+syn:1491,Fabio Tallen,,2000-10-19,2000,Synthetic,ST,Striker,left,181,1500000
+syn:1492,Sami Huantor,,1997-12-01,1997,Synthetic,ST,Striker,right,193,700000
+syn:1493,Gael Mora,,2002-03-02,2002,Synthetic,FB,Full-back,right,180,4400000
+syn:1494,Goran Nisizan,,2007-04-15,2007,Synthetic,CB,Centre-back,right,175,21100000
+syn:1495,Hugo Tortalbel,,1998-09-11,1998,Synthetic,CM,Central midfielder,right,186,8100000
+syn:1496,Luca Belrado,,2000-03-12,2000,Synthetic,DM,Defensive midfielder,right,178,1300000
+syn:1497,Sami Rosdri,,1997-04-27,1997,Synthetic,CB,Centre-back,right,172,3500000
+syn:1498,Fabio Movar,,2001-01-18,2001,Synthetic,AM,Attacking midfielder,right,180,1300000
+syn:1499,Sami Quitalan,,1995-08-22,1995,Synthetic,W,Winger,left,170,1400000
