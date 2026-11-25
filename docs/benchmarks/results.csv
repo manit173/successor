@@ -1,0 +1,61 @@
+suite,size,n,variant,baseline,ms,work,answer,answers_agree
+search,"10,000",10000,"Trie lookup",false,2.56,131946,"168360",true
+search,"10,000",10000,"Trie + ranking (app search)",false,15.647,509241,"168360",true
+search,"10,000",10000,"Linear scan",true,67.393,11135378,"168360",true
+search,"100,000",100000,"Trie lookup",false,18.14,254836,"1618309",true
+search,"100,000",100000,"Trie + ranking (app search)",false,91.724,3607424,"1618309",true
+search,"100,000",100000,"Linear scan",true,647.174,111263027,"1618309",true
+search,"1,000,000",1000000,"Trie lookup",false,279.491,251860,"16175181",true
+search,"1,000,000",1000000,"Trie + ranking (app search)",false,2506.094,31303351,"16175181",true
+search,"1,000,000",1000000,"Linear scan",true,6393.116,1112247596,"16175181",true
+topk,"100,000",100000,"Quickselect top-k",false,0.726,213639,"10 ids #8d0ade67",true
+topk,"100,000",100000,"Binary heap top-k",true,0.501,100483,"10 ids #8d0ade67",true
+topk,"100,000",100000,"Sort all",true,25.137,1534936,"10 ids #8d0ade67",true
+topk,"1,000,000",1000000,"Quickselect top-k",false,7.357,2380036,"10 ids #df30ac90",true
+topk,"1,000,000",1000000,"Binary heap top-k",true,0.889,1000614,"10 ids #df30ac90",true
+topk,"1,000,000",1000000,"Sort all",true,153.27,18641004,"10 ids #df30ac90",true
+topk,"5,000,000",5000000,"Quickselect top-k",false,37.965,10516818,"10 ids #cbb99c3d",true
+topk,"5,000,000",5000000,"Binary heap top-k",true,4.876,5000659,"10 ids #cbb99c3d",true
+topk,"5,000,000",5000000,"Sort all",true,1016.36,105123864,"10 ids #cbb99c3d",true
+topk-large,"100,000",100000,"Quickselect top-k",false,3.492,346002,"10000 ids #340ba4c3",true
+topk-large,"100,000",100000,"Binary heap top-k",true,4.242,871165,"10000 ids #340ba4c3",true
+topk-large,"100,000",100000,"Sort all",true,11.93,1534936,"10000 ids #340ba4c3",true
+topk-large,"1,000,000",1000000,"Quickselect top-k",false,21.569,4538001,"100000 ids #d8d2c01c",true
+topk-large,"1,000,000",1000000,"Binary heap top-k",true,58.632,10964640,"100000 ids #d8d2c01c",true
+topk-large,"1,000,000",1000000,"Sort all",true,162.613,18641004,"100000 ids #d8d2c01c",true
+topk-large,"5,000,000",5000000,"Quickselect top-k",false,136.553,22905543,"500000 ids #3a3066be",true
+topk-large,"5,000,000",5000000,"Binary heap top-k",true,418.746,62273207,"500000 ids #3a3066be",true
+topk-large,"5,000,000",5000000,"Sort all",true,1088.433,105123864,"500000 ids #3a3066be",true
+quantiles,"100,000",100000,"Quickselect (multi-select)",false,2.133,869387,"1.001696166/2.002025507/3.006104517",true
+quantiles,"100,000",100000,"Median of medians ×3",true,16.839,5060743,"1.001696166/2.002025507/3.006104517",true
+quantiles,"100,000",100000,"Sort",true,5.337,1660964,"1.001696166/2.002025507/3.006104517",true
+quantiles,"1,000,000",1000000,"Quickselect (multi-select)",false,21.599,7770228,"1.000738449/1.999986178/2.998970812",true
+quantiles,"1,000,000",1000000,"Median of medians ×3",true,178.586,51822076,"1.000738449/1.999986178/2.998970812",true
+quantiles,"1,000,000",1000000,"Sort",true,47.822,19931569,"1.000738449/1.999986178/2.998970812",true
+quantiles,"10,000,000",10000000,"Quickselect (multi-select)",false,293.868,99323282,"1.000096043/2.000478227/2.999060397",true
+quantiles,"10,000,000",10000000,"Median of medians ×3",true,2483.168,519333984,"1.000096043/2.000478227/2.999060397",true
+quantiles,"10,000,000",10000000,"Sort",true,564.573,232534967,"1.000096043/2.000478227/2.999060397",true
+bloom,"100,000",100000,"HashSet only",true,1.44,100000,"50249",true
+bloom,"100,000",100000,"Bloom + HashSet",false,4.619,50740,"50249",true
+bloom,"100,000",100000,"Sorted index only",true,9.306,100000,"50249",true
+bloom,"100,000",100000,"Bloom + sorted index",false,11.077,50740,"50249",true
+bloom,"1,000,000",1000000,"HashSet only",true,30.867,1000000,"500576",true
+bloom,"1,000,000",1000000,"Bloom + HashSet",false,109.033,505621,"500576",true
+bloom,"1,000,000",1000000,"Sorted index only",true,118.965,1000000,"500576",true
+bloom,"1,000,000",1000000,"Bloom + sorted index",false,128.99,505621,"500576",true
+bloom,"5,000,000",5000000,"HashSet only",true,186.103,5000000,"2501389",true
+bloom,"5,000,000",5000000,"Bloom + HashSet",false,664.321,2526486,"2501389",true
+bloom,"5,000,000",5000000,"Sorted index only",true,935.186,5000000,"2501389",true
+bloom,"5,000,000",5000000,"Bloom + sorted index",false,926.577,2526486,"2501389",true
+matching,"500",500,"Max-flow matching",false,3.281,1458991,"472 pairs",null
+matching,"500",500,"Greedy",true,0.975,2483,"390 pairs",null
+matching,"2,000",2000,"Max-flow matching",false,39.298,23073552,"1857 pairs",null
+matching,"2,000",2000,"Greedy",true,1.815,9984,"1547 pairs",null
+matching,"8,000",8000,"Max-flow matching",false,684.205,366776585,"7418 pairs",null
+matching,"8,000",8000,"Greedy",true,5.531,39984,"6254 pairs",null
+bottleneck,"8",8,"Bottleneck matching",false,0.201,1943,"weakest 80.5, 0 empty",null
+bottleneck,"8",8,"Greedy",true,0.011,140,"weakest 80.5, 0 empty",null
+bottleneck,"32",32,"Bottleneck matching",false,0.458,34414,"weakest 85.6, 0 empty",null
+bottleneck,"32",32,"Greedy",true,0.037,612,"weakest 82.1, 0 empty",null
+bottleneck,"128",128,"Bottleneck matching",false,2.19,620949,"weakest 79.3, 0 empty",null
+bottleneck,"128",128,"Greedy",true,0.23,2527,"weakest 78.2, 0 empty",null
