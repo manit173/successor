@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+.idea/
+.venv/
+*.iml
+*.pyc
+data/processed/
+data/raw/
+dist/
+node_modules/
+target/
