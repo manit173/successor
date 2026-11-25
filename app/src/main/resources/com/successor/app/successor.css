@@ -1,0 +1,174 @@
+/* Successor: layout and chrome on top of AtlantaFX Cupertino (light/dark), using its colour variables. */
+
+.sc-window {
+    -fx-background-color: -color-bg-default;
+}
+
+.sc-titlebar {
+    -fx-background-color: -color-bg-subtle;
+    -fx-border-color: transparent transparent -color-border-muted transparent;
+    -fx-border-width: 0 0 1 0;
+    -fx-min-height: 44px;
+    -fx-pref-height: 44px;
+}
+
+.sc-titlebar-title {
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-text-fill: -color-fg-default;
+}
+
+.sc-status {
+    -fx-font-size: 12px;
+    -fx-text-fill: -color-fg-muted;
+}
+
+.sc-dot-ok {
+    -fx-fill: -color-success-emphasis;
+}
+
+.sc-dot-pending {
+    -fx-fill: -color-warning-emphasis;
+}
+
+.sc-dot-error {
+    -fx-fill: -color-danger-emphasis;
+}
+
+.sc-sidebar-pane {
+    -fx-background-color: -color-bg-subtle;
+    -fx-border-color: transparent -color-border-muted transparent transparent;
+    -fx-border-width: 0 1 0 0;
+}
+
+.sc-sidebar-pane .sidebar {
+    -fx-background-color: transparent;
+}
+
+.sc-muted {
+    -fx-text-fill: -color-fg-muted;
+}
+
+.sc-table-head {
+    -fx-font-size: 11px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -color-fg-muted;
+}
+
+.sc-empty-icon {
+    -fx-icon-color: -color-fg-subtle;
+}
+
+.sc-chip {
+    -fx-background-color: -color-accent-subtle;
+    -fx-background-radius: 10px;
+    -fx-padding: 3 10 3 10;
+    -fx-font-size: 11px;
+}
+
+.sc-search {
+    -fx-background-radius: 7px;
+}
+
+.sc-card {
+    -fx-background-color: -color-bg-default;
+    -fx-background-radius: 14px;
+    -fx-border-color: -color-border-muted;
+    -fx-border-radius: 14px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.07), 18, 0.1, 0, 4);
+}
+
+.sc-row {
+    -fx-background-color: -color-bg-default;
+    -fx-background-radius: 12px;
+    -fx-border-color: -color-border-muted;
+    -fx-border-radius: 12px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.05), 10, 0.1, 0, 2);
+}
+
+.sc-row:hover {
+    -fx-background-color: -color-accent-subtle;
+    -fx-border-color: -color-accent-muted;
+}
+
+.progress-bar.sc-mid > .bar {
+    -fx-background-color: -color-accent-emphasis;
+}
+
+.sc-pill {
+    -fx-background-color: -color-bg-subtle;
+    -fx-border-color: -color-border-muted;
+    -fx-background-radius: 999px;
+    -fx-border-radius: 999px;
+    -fx-padding: 3 10 3 10;
+    -fx-font-size: 12px;
+    -fx-text-fill: -color-fg-default;
+}
+
+.sc-chip-accent {
+    -fx-background-color: -color-accent-subtle;
+    -fx-border-color: transparent;
+    -fx-text-fill: -color-accent-fg;
+    -fx-font-weight: bold;
+}
+
+.sc-chip-green {
+    -fx-background-color: rgba(48, 209, 88, 0.16);
+    -fx-border-color: transparent;
+    -fx-text-fill: -color-success-fg;
+    -fx-font-weight: bold;
+}
+
+.sc-avatar {
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.18), 10, 0.2, 0, 3);
+}
+
+.sc-hero {
+    -fx-background-color: linear-gradient(to bottom right, -color-accent-emphasis, derive(-color-accent-emphasis, -35%));
+    -fx-background-radius: 18px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.18), 24, 0.15, 0, 6);
+}
+
+.sc-hero .label {
+    -fx-text-fill: white;
+}
+
+.sc-tile {
+    -fx-background-color: -color-bg-default;
+    -fx-background-radius: 14px;
+    -fx-border-color: -color-border-muted;
+    -fx-border-radius: 14px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.06), 14, 0.1, 0, 3);
+    -fx-cursor: hand;
+}
+
+.sc-tile:hover {
+    -fx-border-color: -color-accent-emphasis;
+    -fx-translate-y: -2;
+}
+
+.sc-big-number {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+}
+
+.sc-legend-dot {
+    -fx-min-width: 10px;
+    -fx-min-height: 10px;
+    -fx-background-radius: 5px;
+}
+
+.sc-tile-icon {
+    -fx-icon-color: -color-accent-emphasis;
+}
+
+.sc-chip-warn {
+    -fx-background-color: rgba(255, 159, 10, 0.16);
+    -fx-border-color: transparent;
+    -fx-text-fill: -color-warning-fg;
+    -fx-font-size: 11px;
+}
+
+.toggle-button.sc-league-other:selected {
+    -fx-background-color: derive(-color-accent-emphasis, 25%);
+}
