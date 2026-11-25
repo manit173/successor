@@ -4,8 +4,15 @@ __pycache__/
 .venv/
 *.iml
 *.pyc
-data/processed/
 data/raw/
 dist/
 node_modules/
 target/
+
+# iPhone build output and per-user Xcode state
+ios/build/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# the launch video project (captures of the app with real data, renders)
+video/

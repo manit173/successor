@@ -29,8 +29,10 @@ java -cp engine/target/classes com.successor.engine.bench.BenchmarkCli docs/benc
 
 ## Data
 
-Real data comes from Transfermarkt (CC0), Understat (2014/15–2023/24) and FBref (2024/25 full, 2025/26 basic). Sources,
-licences and limitations are in [`data/SOURCES.md`](data/SOURCES.md). Raw and processed real data are not committed.
+Real data comes from Transfermarkt (CC0), Understat, FBref and Sofascore exports: 29,307 players in 22 leagues,
+2012/13–2025/26. Sources, licences and limitations are in [`data/SOURCES.md`](data/SOURCES.md). The processed dataset
+is committed in `data/processed/` (and the iPhone app's export in `ios/Data/real/`); the raw downloads are not
+(`scripts/fetch_data.sh` fetches them).
 `data/sample/` is a committed synthetic dataset (made-up players, every stat present) so the app runs from a fresh
 checkout. Each build writes `data/processed/link_report.md`, with link rates and consistency checks.
 
