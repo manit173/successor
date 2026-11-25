@@ -105,6 +105,13 @@ public final class Cohorts {
         public int size() {
             return values.length;
         }
+
+        /** The cohort's per-90 values in ascending order (a copy), e.g. for exporting percentile tables. */
+        public double[] sortedValues() {
+            double[] v = values.clone();
+            java.util.Arrays.sort(v);
+            return v;
+        }
     }
 
     /** All stats of one position-season. */

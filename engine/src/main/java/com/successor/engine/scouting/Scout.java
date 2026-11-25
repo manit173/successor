@@ -319,7 +319,7 @@ public final class Scout {
     }
 
     /** Position with the most minutes over the eligible seasons. */
-    Position mainPosition(List<PlayerSeason> seasons, Player p) {
+    public Position mainPosition(List<PlayerSeason> seasons, Player p) {
         Map<Position, Double> minutes = new EnumMap<>(Position.class);
         for (PlayerSeason s : seasons) {
             Position x = s.position() != null ? s.position() : p.position();
