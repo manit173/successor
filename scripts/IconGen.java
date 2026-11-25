@@ -18,14 +18,17 @@ import java.io.File;
 public class IconGen {
     public static void main(String[] args) throws Exception {
         int s = 1024;
-        BufferedImage img = new BufferedImage(s, s, BufferedImage.TYPE_INT_ARGB);
+        // --ios: a full-bleed opaque square (iOS rounds the corners itself and rejects transparency)
+        boolean ios = args.length > 1 && args[1].equals("--ios");
+        BufferedImage img = new BufferedImage(s, s, ios ? BufferedImage.TYPE_INT_RGB : BufferedImage.TYPE_INT_ARGB);
         Graphics2D g = img.createGraphics();
         g.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
         g.setRenderingHint(RenderingHints.KEY_STROKE_CONTROL, RenderingHints.VALUE_STROKE_PURE);
-        double inset = 100;
+        double inset = ios ? 0 : 100;
         double body = s - 2 * inset;
-        RoundRectangle2D shape = new RoundRectangle2D.Double(inset, inset, body, body, 370, 370);
-        for (int i = 18; i > 0; i--) {
+        java.awt.Shape shape = ios ? new java.awt.Rectangle(0, 0, s, s)
+                : new RoundRectangle2D.Double(inset, inset, body, body, 370, 370);
+        for (int i = ios ? 0 : 18; i > 0; i--) {
             g.setColor(new Color(0, 0, 0, 3));
             g.fill(new RoundRectangle2D.Double(inset - i * 0.2, inset + 14 - i * 0.2 + i, body + i * 0.4,
                     body + i * 0.4, 370, 370));

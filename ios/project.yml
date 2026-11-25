@@ -1,0 +1,57 @@
+name: Successor
+options:
+  bundleIdPrefix: com.manit173
+  deploymentTarget:
+    iOS: "18.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    CODE_SIGN_STYLE: Automatic
+    DEVELOPMENT_TEAM: ""
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  Successor:
+    type: application
+    platform: iOS
+    sources:
+      - path: Successor
+      - path: Data
+        type: folder
+        buildPhase: resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.manit173.successor
+        PRODUCT_NAME: Successor
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Successor
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.sports
+  SuccessorTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: SuccessorTests
+    dependencies:
+      - target: Successor
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: com.manit173.successor.tests
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/Successor.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Successor"
+        BUNDLE_LOADER: "$(TEST_HOST)"
+schemes:
+  Successor:
+    build:
+      targets:
+        Successor: all
+        SuccessorTests: [test]
+    test:
+      targets:
+        - SuccessorTests
